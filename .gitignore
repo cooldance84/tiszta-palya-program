@@ -1,0 +1,11 @@
+# Ideiglenes és renderelt fájlok
+tmp/
+rendered/
+*.tmp
+*.bak
+~$*
+
+# Operációs rendszer és szerkesztő
+.DS_Store
+Thumbs.db
+.vscode/
