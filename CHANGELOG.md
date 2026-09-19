@@ -8,6 +8,7 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - 0.1-es nyilvános állítás–forrás mátrix 34 ellenőrzési ponttal és bizonyítottsági jelöléssel
 - első prioritású adat-, forrás- és jogi felülvizsgálati hiánylista
+- a 0.9.2-es konzultációs változat egyoldalas vezetői összefoglalója Markdown- és PDF-formátumban
 
 ### Módosítva
 

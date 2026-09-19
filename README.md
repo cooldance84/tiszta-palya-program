@@ -12,6 +12,8 @@ Ez a nyilvános repó a szakmai egyeztetésre szánt, tisztított változatot ta
 - Dátum: **2026. szeptember 19.**
 - Szerző: **Kiss Tiborcz**
 - Fő dokumentum: [Tiszta Pálya Program – konzultációs változat 0.9](dokumentumok/Tiszta_Palya_Program_konzultacios_valtozat_0_9.pdf)
+- Rövid bemutató: [egyoldalas vezetői összefoglaló](VEZETOI_OSSZEFOGLALO.md)
+- Nyomtatható vezetői összefoglaló: [PDF](dokumentumok/Tiszta_Palya_Program_vezetoi_osszefoglalo_0_9_2.pdf)
 - Kereshető szöveges változat: [TXT](dokumentumok/Tiszta_Palya_Program_konzultacios_valtozat_0_9.txt)
 
 A jelenlegi PDF 24 oldalas. Külön alfejezetet tartalmaz az edzői minőségről, az akadémiai eredményesség méréséről, valamint a horvát, szerb és spanyol példák bizonyíthatósági korlátairól.
@@ -25,6 +27,7 @@ Az anyag nem végleges szakpolitikai program, jogi állásfoglalás vagy pénzü
 - [Változásnapló](CHANGELOG.md)
 - [Döntési napló](DONTESI_NAPLO.md)
 - [Állítás–forrás mátrix](ALLITAS_FORRAS_MATRIX.md) – 34 ellenőrzési pont bizonyítottsági státusszal
+- [Egyoldalas vezetői összefoglaló](VEZETOI_OSSZEFOGLALO.md)
 - [Felhasználási és módszertani nyilatkozat](FELHASZNALASI_ES_MODSZERTANI_NYILATKOZAT.md)
 
 ## Tervezett következő lépések
