@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/tiszta-palya-program-logo.png" alt="Tiszta Pálya Program logó" width="760">
+</p>
+
 # Tiszta Pálya Program
 
 ## Egyoldalas vezetői összefoglaló

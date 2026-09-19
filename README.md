@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/tiszta-palya-program-logo.png" alt="Tiszta Pálya Program logó" width="900">
+</p>
+
 # Tiszta Pálya Program
 
 A **Tiszta Pálya Program** egy konzultációs sportgazdasági és klubirányítási reformmodell a magyar labdarúgás fenntarthatóbb, átláthatóbb és közösségibb működésének vizsgálatához.
