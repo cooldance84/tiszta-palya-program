@@ -1,0 +1,76 @@
+# Tiszta Pálya Program – állítás–forrás mátrix
+
+**Vizsgált változat:** 0.9.2, 24 oldal  
+**Mátrix verziója:** 0.1 – nyilvános munkaváltozat  
+**Frissítve:** 2026. szeptember 19.  
+**Cél:** elkülöníteni az igazolt tényállításokat, a nemzetközi példákból levont következtetéseket, a modellfeltételezéseket és a szakértői vizsgálatot igénylő jogi kérdéseket.
+
+> **Státusz:** Ez a dokumentum nem végleges szakmai, gazdasági vagy jogi állásfoglalás. A C és D jelölésű sorok forgatókönyvek, vizsgálandó feltevések vagy még nem kellően igazolt állítások; tényként nem idézhetők. A J jelölésű kérdésekhez szakértői felülvizsgálat szükséges.
+
+## Minősítési kulcs
+
+| Kód | Jelentés |
+|---|---|
+| **A** | Elsődleges vagy hivatalos forrással alátámasztott állítás |
+| **B** | Irányadó/deskriptív forrással támogatott állítás; oksági következtetésre önmagában nem elég |
+| **C** | Modellfeltételezés, célérték vagy szemléltető forgatókönyv; kalibrálni és érzékenységvizsgálni kell |
+| **D** | Kutatási hipotézis vagy jelenleg nem kellően igazolt állítás |
+| **J** | Jogi vagy szabályozási következtetés; szakértői vélemény szükséges |
+
+## Mátrix
+
+| ID | Témakör / fejezet | Ellenőrizendő állítás | Állítás típusa | Jelenlegi forrás | Státusz | Hiány / következő lépés |
+|---:|---|---|---|---|:---:|---|
+| 1 | Szellemi tulajdon | Az önkéntes műnyilvántartás a mű létezésének és tartalmának bizonyítását segíti, de önmagában nem keletkeztet szerzői jogot. | Jogi tényállítás | [SZTNH – Önkéntes műnyilvántartás](https://sztnh.gov.hu/kezdooldal/tudasbazis/kihez-fordulhatok_/onkentes-munyilvantartas) | A | Az SZTNH válasza alapján pontosítani kell a 0.9.2 PDF benyújtásának módját. |
+| 2 | Szellemi tulajdon | A szerzői jog a konkrét, egyéni-eredeti kifejezést védheti; az ötlet, elv, eljárás vagy működési módszer önmagában nem szerzői jogi tárgy. | Jogi tényállítás | [SZTNH – Önkéntes műnyilvántartás](https://sztnh.gov.hu/kezdooldal/tudasbazis/kihez-fordulhatok_/onkentes-munyilvantartas) | A | A program egyes elemeinél külön kell választani a dokumentum védelmét és a modell szabadon alkalmazható alapelveit. |
+| 3 | Név és védjegy | A „Tiszta Pálya Program” név használata előtt indokolt lehet védjegykutatás vagy oltalomképességi véleménnyel kiegészített kutatás. | Eljárási javaslat | [SZTNH – Védjegyszolgáltatások](https://sztnh.gov.hu/kezdooldal/tudasbazis/kihez-fordulhatok_/vedjegyszolgaltatasok) | A/J | Az SZTNH válasza után dönteni kell a területi körről, a nizzai osztályokról és a bejelentő személyéről. |
+| 4 | Pénzügyi fenntarthatóság | Az UEFA pénzügyi fenntarthatósági rendszere a fizetőképességet, stabilitást és költségkontrollt hangsúlyozza; a keret alkalmazható szakmai viszonyítási pontként. | Szabályozási háttér | [UEFA – Financial sustainability](https://www.uefa.com/running-competitions/integrity/financial-sustainability/) | A | A magyar modellre való átültetés nem automatikus; hazai adatkalibráció szükséges. |
+| 5 | Költségfegyelem | Az UEFA squad cost ratio felső határa 2025/26-tól 70%. | Számszerű szabály | [UEFA – Financial sustainability](https://www.uefa.com/running-competitions/integrity/financial-sustainability/) | A | A fogalom tartalmát és az elszámolási szabályokat pontosan át kell venni; nem azonos egy egyszerű bérplafonnal. |
+| 6 | Hazai játékosok | A home-grown játékosszabályok az uniós munkavállalói szabad mozgás és a versenyjog szempontjából vizsgálandók. | Uniós jogi állítás | [CJEU C-680/21 – Royal Antwerp](https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-12/cp230205en.pdf) | A/J | A konkrét magyar ösztönzőt célhoz kötötten, szükségesség és arányosság szerint kell jogilag elemezni. |
+| 7 | Játékosmobilitás | A professzionális labdarúgás foglalkoztatási és átigazolási szabályaira kiterjedhet a munkavállalók uniós szabad mozgása. | Uniós jogi állítás | [CJEU C-415/93 – Bosman](https://curia.europa.eu/juris/liste.jsf?num=C-415/93) | A/J | Az állampolgárságon alapuló közvetlen korlátozás helyett semleges, képzési és játékpercalapú ösztönzőket kell vizsgálni. |
+| 8 | Tulajdonosi alkalmasság | A Premier League működtet tulajdonosi és vezetői alkalmassági vizsgálati rendszert. | Nemzetközi intézményi példa | [Premier League – Owners’ and Directors’ Test](https://www.premierleague.com/en/news/102375) | A | A magyar alkalmazhatósághoz hatásköri, eljárási és jogorvoslati terv szükséges. |
+| 9 | Közösségi kontroll | A klubokban meghatározhatók olyan „védett ügyek”, amelyekhez szurkolói vagy tagsági jóváhagyás szükséges. | Modelljavaslat | Nincs még közvetlen jogi forrás | C/J | Ptk., Sporttörvény, társasági jog, szövetségi licencszabályok és kisebbségvédelem szerinti jogi memo szükséges. |
+| 10 | Közösségi kontroll | A német 50+1 rendszer és egyes spanyol tagsági modellek használható részmegoldásokat kínálnak a közösségi befolyás elemzéséhez. | Nemzetközi összehasonlítás | A 0.9.2-ben nincs elegendő elsődleges forrás | B/D | DFL/DFB hivatalos szabály és érintett spanyol klubok alapszabályai alapján külön összehasonlító lap kell. |
+| 11 | Tulajdonosi modell | A német, spanyol vagy amerikai rendszer egészének magyar átvétele nem indokolt; csak egyes mechanizmusok vizsgálhatók. | Szakpolitikai következtetés | Több modell együttes összevetése szükséges | B | Az összevetés azonos dimenziók szerint készüljön: tulajdon, közpénz, liga, költségkontroll, bevételelosztás, utánpótlás. |
+| 12 | Zárt ligás eszközök | Az észak-amerikai ligák bevételmegosztási és költségkontroll-mechanizmusai bizonyos ösztönzők elemzéséhez referenciát adhatnak. | Nemzetközi összehasonlítás | Nincs még megjelölt liga- vagy CBA-forrás | B/D | Legalább egy liga hivatalos szabályzata és kollektív szerződése szükséges; az EU-s nyílt ligarendszertől való eltérést külön kell kezelni. |
+| 13 | TAO | A TAO-forrásokat elkülönítetten kell kezelni a tulajdonosi támogatástól, közvetlen állami támogatástól, szponzorációtól és piaci bevételtől. | Fogalmi és számviteli állítás | A 0.9.2-ben nincs teljes jogszabályi/adatforrás-csomag | D/J | Jogszabályok, támogatási határozatok, MLSZ-adatok, klubbeszámolók és kapcsolt ügyletek egységes adattáblája szükséges. |
+| 14 | Állami támogatás | A szelektív közpénzügyi előny uniós állami támogatási vizsgálat alá eshet. | Uniós jogi keret | [Európai Bizottság – State aid overview](https://competition-policy.ec.europa.eu/state-aid/overview_en) | A/J | A TAO és más támogatások konkrét jogi minősítéséhez támogatási jogi szakértő és az alkalmazandó bizottsági döntések szükségesek. |
+| 15 | Bevételi koncentráció | A fenntarthatóság célja a bevételi források diverzifikálása és az egyetlen finanszírozótól való függés mérséklése, nem az állami szerep azonnali nullára csökkentése. | Normatív modellcél | A program saját definíciója | C | Klubonként mérhető koncentrációs mutató és célpálya szükséges. |
+| 16 | Átmeneti pálya | A 90% → 80% → 70–75%-os költség/bevétel pálya szemléltető átmeneti forgatókönyv. | Modellfeltételezés | Saját számítási példa | C | Nem tényállításként kell közölni; klubadatokon érzékenységvizsgálat és több induló helyzet kell. |
+| 17 | Fix bérplafon | Az egységes, 1,2 milliárd forintos nominális bérplafon helyett indokoltabb a bevételhez kötött költségkontroll vizsgálata. | Szakpolitikai hipotézis | UEFA-keret + saját következtetés | B/C | Magyar klubmintán össze kell vetni a nominális és arányalapú korlát torzításait. |
+| 18 | Pénzügyi alapeset | A 3,4 milliárd forintos bázis és az ebből képzett pénzügyi pályák szemléltető számok, nem előrejelzések. | Modellfeltételezés | Saját szimuláció | C | A forrás, árindex, ÁFA-kezelés, transzferbevételek és tulajdonosi finanszírozás definícióit rögzíteni kell. |
+| 19 | Kereskedelmi bevétel | A pilotban vizsgált 10–20%-os bevételnövekedés lehetséges cél-/érzékenységi tartomány, nem bizonyított hatás. | Modellfeltételezés | Saját pilotforgatókönyv | C | Múltbeli klubadat, benchmarking és kontrollcsoport vagy előtte–utána mérés szükséges. |
+| 20 | Nézőszám | A 10%-os nézőszám-emelkedés pilotcél lehet, de nem általánosan várható eredmény. | Modellfeltételezés | Saját pilotforgatókönyv | C | Bázisév, stadionkapacitás, jegyár, sportsiker és meccsidőpont kontrollváltozóként rögzítendő. |
+| 21 | Likviditás | A 13 hetes cash-flow és a 12 havi stresszteszt alkalmas lehet a klub rövid és középtávú likviditási kockázatának követésére. | Módszertani javaslat | A 0.9.2-ben nincs külső szakmai forrás | B | Könyvvizsgálói/pénzügyi szakértői validálás és egységes sablon szükséges. |
+| 22 | Utánpótlás | A játékos-, edző- és játékvezető-fejlesztési utak rendszerszerű összekapcsolása nemzetközi fejlesztési cél. | Intézményi tényállítás | [FIFA – Talent Development](https://inside.fifa.com/talent-development) | A/B | A FIFA-program nem bizonyítja önmagában a magyar beavatkozások hatását; hazai eredménymutatók kellenek. |
+| 23 | Horvát modell | A HNS működtet akadémiai, oktatási és korosztályos versenystruktúrát. | Nemzetközi deskriptív példa | [HNS – hivatalos oldal](https://hns.family/en/) | A/B | A horvát sikert nem szabad kizárólag a struktúrának tulajdonítani; finanszírozási, játékperc- és transzferadat kell. |
+| 24 | Spanyol játékosút | A Real Madrid hivatalos akadémiai rendszere több lépcsős játékosutat mutat a korosztályoktól a Castilla felé. | Klubszintű deskriptív példa | [Real Madrid – Men’s Youth Academy](https://www.realmadrid.com/en-US/football/academy) | A/B | Egyetlen elitklub példája nem igazolja az országos modell hatékonyságát; összehasonlító kohorszadat szükséges. |
+| 25 | Fiatal játékosok | A fiatalok fejlesztése nem pusztán kerettagsággal, hanem tényleges és a versenyszinttel súlyozott játékperccel is mérhető. | Mérési megközelítés | [CIES Football Observatory – Weekly Post 461](https://football-observatory.com/WeeklyPost461) | B | A magyar KPI definícióját, életkori határait és súlyozását egységesíteni kell. |
+| 26 | Edzőminőség | Az utánpótlás eredményességéhez új edzői minimumrendszer, folyamatos fejlesztés és teljesítménymérés szükséges. | Szakpolitikai hipotézis | FIFA-keret; közvetlen magyar hatásvizsgálat nincs | B/D | MLSZ licenc-, továbbképzési, foglalkoztatási és játékosfejlődési adatok összekapcsolása szükséges. |
+| 27 | Szerb modell | A szerb klubfutball „piaci alapon”, elsősorban utánpótlásból és játékosexportból él. | Általánosító tényállítás | Nincs megfelelő elsődleges, összehasonlítható forrás | D | Klubbeszámolók, tulajdonosi/közfinanszírozási adatok és legalább 5–10 éves transzfermérleg szükséges. |
+| 28 | Horvát/Belgiumi export | A horvát vagy belga modell sportszakmai és pénzügyi sikerét jelentős részben az utánpótlás és a játékosexport okozza. | Oksági állítás | Jelenleg csak részleges, deskriptív források | D | Többéves klub- és ligaszintű paneladat, alternatív magyarázatok és közpénz/tulajdonosi finanszírozás kontrollja kell. |
+| 29 | Videoton/Vidi | Külső szurkolói észrevétel alapján vizsgálandó, hogy hosszabb időtávon milyen arányban jutottak saját nevelésű játékosok a Vidi első csapatába és a válogatottba. | Klubtörténeti kutatási kérdés | Külső szurkolói észrevétel; nincs még tételes adatbázis | D | Időszak, „saját nevelés”, első csapat és válogatottság definíciója; játékoslista és mérkőzésadatok szükségesek. |
+| 30 | Edzői minőség | Vizsgálandó, hogy a jelenlegi edzőkiválasztási, továbbképzési és teljesítményértékelési rendszer mennyiben támogatja az utánpótlás hosszú távú eredményességét. | Szakpolitikai kutatási kérdés | Külső véleményből képzett hipotézis; közvetlen empirikus alátámasztás még nincs | D | Személyek általános minősítése helyett mérhető kompetencia-, továbbképzési, játékosfejlődési és eredménykritériumokat kell alkalmazni. |
+| 31 | Szurkolói élmény | A szurkolói bizalom, részvétel és mérkőzésnapi élmény javítása növelheti a közösségi és kereskedelmi bevételeket. | Hatáshipotézis | Nincs még hazai oksági bizonyíték | D/C | Kérdőív, NPS/bizalmi mutató, jegy- és költési adatok, valamint pilot előtti/utáni mérés szükséges. |
+| 32 | Pilot | Egy 6–12 hónapos önkéntes klubpilot alkalmas lehet a pénzügyi, utánpótlási és közösségi elemek előzetes tesztelésére. | Kutatási terv | A program saját pilotterve | C | Előre rögzített baseline, kontroll vagy összevetési csoport, adat-hozzáférés, felelősök és leállítási feltételek szükségesek. |
+| 33 | Szakmai review | A TF Sportmenedzsment Tanszék és Sportgazdasági és Döntéstudományi Kutató Központ kompetenciája illeszkedik a modell szakmai felülvizsgálatához. | Intézményi megfelelés | [TF – Sportmenedzsment Tanszék](https://tf.hu/egyetem/szervezeti-felepites/intezetek-es-tanszekek/gazdasag-es-tarsadalomtudomanyi-intezet/sportmenedzsment-tanszek), [TF – Kutató Központ](https://tf.hu/egyetem/szervezeti-felepites/intezetek-es-tanszekek/gazdasag-es-tarsadalomtudomanyi-intezet/sportgazdasagi-es-dontestudomanyi-kutato-kozpont) | A | A felülvizsgálat eredménye még nyitott; a címzettől módszertani és adatforrás-ajánlás is kérendő. |
+| 34 | Országos alkalmazás | A pilot eredményeiből csak előre rögzített módszertan, dokumentált korlátok és független értékelés mellett indokolt országos következtetést levonni. | Módszertani követelmény | Saját kutatástervezési elv | C | A kiértékelési protokollt a pilot megkezdése előtt kell rögzíteni. |
+
+## Első prioritású bizonyítási hiányok a TF-review előtt
+
+1. **TAO és klubfinanszírozás:** alkalmazandó jogszabályok, támogatási határozatok, MLSZ-adatok, éves beszámolók, tulajdonosi és kapcsolt finanszírozás egységes szerkezetben.
+2. **Nemzetközi modellek:** német 50+1, spanyol tagsági/tulajdonosi modellek és legalább egy észak-amerikai liga elsődleges szabályforrásai.
+3. **Magyar klubpénzügyi bázis:** legalább 3–5 éves, klubonként összehasonlítható bevétel-, bér-, transzfer-, támogatás- és likviditási adatsor.
+4. **Utánpótlási játékosút:** akadémiai kohorszok, első csapatos játékpercek, transzferek és válogatottság; különösen a Vidi-állítás tételes ellenőrzése.
+5. **Jogi memo:** Ptk., Sporttörvény, társasági jog, MLSZ-licencelés, uniós versenyjog, munkavállalói szabad mozgás és állami támogatási jog.
+6. **Pilot-mérési terv:** baseline, KPI-definíciók, adatgazdák, kontroll/benchmark, értékelési időpontok és leállítási feltételek.
+
+## A mátrix rövid következtetése
+
+- A dokumentum legerősebben alátámasztott részei jelenleg az **SZTNH-eljárások**, az **UEFA költségkontroll-kerete**, valamint az **uniós játékosmobilitási és home-grown jogi kockázatok**.
+- A nemzetközi klub- és országesetek többsége egyelőre **leíró példa**, nem pedig a javasolt magyar modell oksági bizonyítéka.
+- A számszerű pályákat és pilotcélokat következetesen **forgatókönyvként**, nem előrejelzésként kell jelölni.
+- A szerb, horvát/belga export- és Vidi-utánpótlási állításokat csak adatgyűjtés után szabad tényként használni.
+- A közösségi tulajdonosi/irányítási elemekhez és az ösztönző játékosszabályokhoz az 1.0 változat előtt külön jogi vélemény szükséges.
+
+Ez a mátrix élő munkadokumentum. Az SZTNH és a TF válaszait, valamint az új elsődleges adatforrásokat soronként kell beépíteni, a státusz és a következő lépés frissítésével.
