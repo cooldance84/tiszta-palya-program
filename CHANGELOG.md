@@ -2,6 +2,19 @@
 
 A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, konzultációs szakaszban van.
 
+## [Nem kiadott]
+
+### Hozzáadva
+
+- 0.1-es nyilvános állítás–forrás mátrix 34 ellenőrzési ponttal és bizonyítottsági jelöléssel
+- első prioritású adat-, forrás- és jogi felülvizsgálati hiánylista
+
+### Módosítva
+
+- a Vidi-utánpótlási felvetés semleges, ellenőrizhető kutatási kérdésként szerepel
+- az edzőkre vonatkozó általános minősítés helyett mérhető edzőkiválasztási, továbbképzési és teljesítményértékelési kérdés került a mátrixba
+- a README rögzíti az SZTNH-megkeresés megtörténtét és hivatkozik az állítás–forrás mátrixra
+
 ## [0.9.2] – 2026-09-19
 
 ### Hozzáadva
