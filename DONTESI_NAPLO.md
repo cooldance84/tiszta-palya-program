@@ -22,3 +22,11 @@ Első két megkeresési irány:
 
 1. SZTNH/IP-jogi konzultáció az oltalmi lehetőségekről és a név vizsgálatáról.
 2. Magyar Testnevelési és Sporttudományi Egyetem, Sportmenedzsment Tanszék: független szakmai review.
+
+## 2026-09-19 – Edzői minőség és akadémiai eredményesség
+
+Az utánpótlás eredményességét nem kizárólag a játékperccel vagy az adott klub első csapatába kerülő játékosok számával mérjük. A játékosút, a professzionális pályán maradás, a magasabb szintre továbblépés, a gazdasági érték, az edzői hozzáadott érték és a kettős életpálya együtt alkotja az értékelési keretet.
+
+A korábbi edzői kör általános minősítése helyett kompetenciaalapú kiválasztási, továbbképzési és teljesítményértékelési minimumrendszert vizsgálunk. A horvát, szerb és spanyol példák nem igazolják önmagukban a teljes nemzeti rendszer piaci működését; csak ellenőrzött klub-, tulajdonosi, közpénzügyi és játékosfejlesztési adatokkal használhatók.
+
+A hosszú távú Vidi-szurkolói észrevétel kutatási hipotézis. Számszerű állításként csak előre rögzített küszöbök mellett, legalább 15-20 szezon keret-, játékperc-, válogatottsági és transzferadatainak vizsgálata után közölhető.

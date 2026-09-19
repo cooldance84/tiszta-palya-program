@@ -8,10 +8,13 @@ Ez a nyilvános repó a szakmai egyeztetésre szánt, tisztított változatot ta
 
 ## Jelenlegi változat
 
-- Verzió: **0.9 – konzultációs változat**
+- Verzió: **0.9.2 – a 0.9-es konzultációs változat tartalmi revíziója**
 - Dátum: **2026. szeptember 19.**
+- Szerző: **Kiss Tiborcz**
 - Fő dokumentum: [Tiszta Pálya Program – konzultációs változat 0.9](dokumentumok/Tiszta_Palya_Program_konzultacios_valtozat_0_9.pdf)
 - Kereshető szöveges változat: [TXT](dokumentumok/Tiszta_Palya_Program_konzultacios_valtozat_0_9.txt)
+
+A jelenlegi PDF 24 oldalas. Külön alfejezetet tartalmaz az edzői minőségről, az akadémiai eredményesség méréséről, valamint a horvát, szerb és spanyol példák bizonyíthatósági korlátairól.
 
 ## Fontos státuszjelzés
 
@@ -32,4 +35,3 @@ Az anyag nem végleges szakpolitikai program, jogi állásfoglalás vagy pénzü
 5. Az észrevételek alapján az 1.0-s white paper elkészítése.
 
 Észrevételek és szakmai javaslatok a repó Issues felületén rögzíthetők.
-
