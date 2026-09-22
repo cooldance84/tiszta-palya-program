@@ -25,7 +25,15 @@ A 0.9.2-j1 a korábbi konzultációs anyag javítása. A 0.9.3-as esettanulmány
 
 ## Bizonyítottsági státusz
 
-A bemutatott pénzügyi számok modellfeltételezések, nem auditált klubadatok és nem előrejelzések. A négy pillér együttes hatása és az önálló gazdálkodásra való átállás megvalósíthatósága még nincs igazolva. A módszertani pontosítás nem külső szakmai jóváhagyás.
+A konzultációs kiadás pénzügyi számpéldájának értékei modellfeltételezések, nem auditált klubadatok és nem előrejelzések. A külön kutatási helyzetjelentés a nyilvános klubbeszámolók előzetes feldolgozásáról számol be, saját ellenőrzési státusszal. A négy pillér együttes hatása és az önálló gazdálkodásra való átállás megvalósíthatósága még nincs igazolva. A módszertani pontosítás nem külső szakmai jóváhagyás.
+
+## Kutatási helyzet – 2026. szeptember 22.
+
+Elkészült az FTC, a Puskás Akadémia és az MTK labdarúgó-társaságának 2022–2024-es éves beszámolóira épülő előzetes pénzügyi feldolgozás. A szervezeti körök, bevételi besorolások és sportági időszakok eltérései miatt további egyeztetés szükséges. Az adatátvétel AI-val támogatott; független szakmai felülvizsgálata még hátravan.
+
+- [Kutatási helyzetjelentés: eredmények, korlátok, elsődleges források és következő lépések](KUTATASI_STATUSZ.md)
+
+Ez kutatási státuszfrissítés; az aktuális konzultációs kiadás továbbra is **0.9.2-j1**.
 
 ## Átláthatóság és további munka
 
@@ -43,3 +51,4 @@ A `0_9` és `0_9_2` nevű korábbi PDF-ek történeti változatok; ismert hibái
 A pénzügyi bemenetek a [modellparaméterekben](modellek/penzugyi_pelda_0_9_2_j1.json) találhatók. A [kiadás előállítója](scripts/build_revision_092_j1.py) a pénzügyi táblákat, a kereshető szöveget és a PDF-eket is elkészíti. Futtatás: `python scripts/build_revision_092_j1.py`; függőségek: PyMuPDF, ReportLab és DejaVu Sans fontok. Az előállító a megőrzött alap-PDF és a rögzített modellbemenet azonosságát is ellenőrzi. Ez a konkrét kiadás újra-előállítója; módosított paraméterekhez új verzió és a szöveges következtetések felülvizsgálata szükséges.
 
 Észrevétel a repó Issues felületén is rögzíthető.
+

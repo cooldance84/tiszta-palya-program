@@ -6,6 +6,15 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-09-22 – Nyilvános kutatási helyzetjelentés
+
+- Új [kutatási státusz](KUTATASI_STATUSZ.md) az FTC, a Puskás Akadémia és az MTK 2022–2024-es előzetes pénzügyi feldolgozásáról.
+- Szervezeti, bevételi és időszaki összehasonlíthatósági korlátok, a négy pillér adatfedettsége és a következő lépések összefoglalva, nyilvános elsődleges forrásokkal.
+- Az AI-val támogatott adatátvétel és a még hiányzó független szakmai felülvizsgálat egyértelműen jelölve.
+- README-hivatkozás és a modellfeltételezések elkülönítése a kutatás állapotától.
+
+A részletes nyers adatok és az egyeztetendő számszaki eltérések a belső munkaváltozatban maradnak. Nincs új klubrangsor, politikai függőségi minősítés vagy igazolt önfenntartási következtetés. A programkiadás továbbra is 0.9.2-j1.
+
 ## [0.9.2-j1] - 2026-09-22
 
 ### Javítva
@@ -78,4 +87,5 @@ Az alábbi bejegyzések a korábbi munkafázist őrzik. Az aktuális javítások
 - a fix összegű bérplafon helyett bevételarányos keretszabály vizsgálata
 - a nemzetiségi kvóta helyett hazai neveléshez és játékperchez kötött ösztönzők vizsgálata
 - a pénzügyi modell elkülönítése tényadatokra és forgatókönyv-feltételezésekre
+
 
