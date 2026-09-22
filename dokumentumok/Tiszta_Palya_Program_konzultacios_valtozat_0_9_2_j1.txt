@@ -1,0 +1,1333 @@
+TISZTA PÁLYA
+PROGRAM
+Hibrid, fenntartható és közösségi magyar klubfutball-modell
+
+
+
+
+
+KONZULTÁCIÓS TERVEZET 0.9.2-j1
+
+Szakmai és jogi felülvizsgálatra előkészített változat
+
+
+
+Szerző: Kiss Tiborcz
+2026. szeptember
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+A dokumentum státusza
+
+
+ Ez az anyag szakmai konzultációra szánt koncepciótanulmány. Nem jogi szakvélemény, nem
+ hivatalos szakpolitikai program, és nem állítja, hogy a javaslatok jelenlegi formájukban
+ bevezethetők.
+
+ A cél ellenőrizhető kutatási és pilotprogram felépítése. A tényeket, a modellfeltételezéseket és a
+ kutatási hipotéziseket külön kezeljük. Külső szakmai validáció még szükséges.
+
+ A 0.9.2-j1 javítás tárgya
+
+ Egységes pénzügyi bázis és éves költségpálya; eredmény és pénzáramlás külön táblában; a
+ transzferek kettős költséglevonásának javítása; mérési definíciók; a rövid pilot és a hosszú
+ utánkövetés elválasztása; egységes verzió és oldalszámozás.
+
+
+  Verzió        Dátum           Státusz / tartalom
+
+
+   0.1               2026.09.           Eredeti rövid koncepció
+
+
+   0.9 / 0.9.2         2026.09.19.        Konzultációs anyag; utánpótlási bővítés
+
+
+   0.9.2-j1           2026.09.22.         Javított konzultációs kiadás
+
+
+   0.9.3              Előkészítés        Külön esettanulmány-fejlesztési lépés
+
+
+   1.0                Tervezett          Adatokkal és szakértői visszajelzésekkel megalapozott változat
+
+
+ Miben kérünk szakmai segítséget?
+
+ A klubadatok és a mutatók összehasonlíthatóságában, a hazai jogi alkalmazhatóságban, a
+ pénzügyi feltételezések kalibrálásában és az önkéntes pilot kutatási tervében.
+
+ A Tiszta Pálya Program megjelölés a név- és védjegykutatás lezárásáig munkacím. A javított
+ számítás nem bizonyítja a modell eredményességét.
+
+
+
+
+
+                                                                                                                2. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 1. Vezetői összefoglaló
+
+
+ A professzionális klubfutball fenntarthatósága a finanszírozási koncentráció, a politikai kitettség
+ és a működési ösztönzők mérhető javítását igényli. A közösségi utánpótlási feladat és a profi
+ csapat üzleti kockázata külön kezelendő.
+
+ A modell négy pillére
+
+ Közösségi kontroll: tagi/szurkolói képviselet és védett döntési jogok, a választott jogi
+ formához igazítva.
+
+ Bevételarányos költségfegyelem: az UEFA 70%-os keretköltség-szabálya viszonyítási pont. A
+ hazai licencmutató önálló kalibrációt és jogi vizsgálatot igényel.
+
+ Utánpótlás és játékosút: képzési minőség, tényleges játékperc, első csapatos átmenet,
+ hosszú távú pálya és elkülönített gazdasági eredmény.
+
+ Piaci és közösségi bevételek: meccsnapi, kereskedelmi, digitális és tagsági bevétel
+ fejlesztése a klub saját bázisához mérten.
+
+ Mit mutat a javított számpélda?
+
+ A 0. évi 3 400 M Ft eredményfedezet 2 400 M Ft köz-/államközeli működési bevételből, 500 M Ft
+ piaci működési bevételből és 500 M Ft eladási eredményből áll. Egyik szám sem igazolt magyar
+ klubátlag.
+
+ A központi esetben az 5. évi eredményfedezet 2 700 M Ft, a költség 2 500 M Ft, az eredmény
+ +200 M Ft. A pénzáramlás ugyanakkor nulla, és a 200 M Ft-os pénzpuffer fenntartásához az
+ átmenetben összesen 650 M Ft pótlólagos forrás kellene. Ennek rendelkezésre állása nincs
+ igazolva.
+
+ A példa nem támaszt alá automatikus támogatáskivezetést. Javasolt következő lépés: szakmai
+ és jogi felülvizsgálat, ellenőrzött klubadatok, majd önkéntes megvalósíthatósági pilot. A rövid
+ pilot nem bizonyít 3-5 éves utánpótlási hatást.
+
+
+
+
+
+                                                                                                                3. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+2. Mi változott az eredeti anyaghoz
+képest?
+
+
+
+
+      Eredeti állítás/javaslat                   Értékelés                             0.9-es megoldás
+
+ A magyar modell fenntarthatatlan       Túl általános; klubonként és bevételi          Finanszírozási koncentrációt, saját bevételi arányt és
+ buborék.                             lábanként eltérhet.                            stressztűrést mérünk.
+
+
+ A TAO a profi klubok fő működési       Pontosítandó: a TAO célja, jogcíme és        Külön kezeljük a TAO-t, tulajdonosi pénzt, közvetlen
+  forrása.                                felhasználása                             támogatást és állami vállalati szponzorációt.
+                                      sportáganként/programonként eltér.
+
+
+ Egységes 1,2 milliárd Ft-os bérplafon.  Nem kalibrált; munkajogi és versenyjogi      Bevételarányos squad cost mutató, 70%-os európai
+                                           vizsgálat kell.                                 referencia és fokozatos hazai licencelés.
+
+
+ Legfeljebb öt külföldi játékos.          EU-szabad mozgási és diszkriminációs        Nemzetiségtől független képzési/játékperc-ösztönző;
+                                        kockázat.                                    hatás- és arányossági vizsgálattal.
+
+
+ 40% U21 játékperc.              Nem bizonyított optimum; minőségi           Pilotban tesztelt sávok; játékperc mellett fejlődési,
+                                            helyettesítést és torz ösztönzőt okozhat.      megtartási és értékesítési KPI.
+
+
+ Öt év alatt 0 Ft állami forrás.              Politikai célként lehetséges, de modellből    Három forgatókönyv, köztes mérföldkövek és stop/go
+                             nem következik biztosan.                   kapuk.
+
+
+ 8-10 ezer fős átlagnézőszám.           Klub- és stadionfüggő, alátámasztás nélkül    Kapacitásarányos, bázishoz kötött növekedési cél és
+                                              túlzó.                                      megtartási mutatók.
+
+
+A színezés helyett ebben a változatban a bizonyíthatóság a rendezőelv: tény, értelmezés, feltételezés
+és szakértői kérdés külön kategóriát kap.
+
+
+
+
+
+                                                                                                                4. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 3. Fogalmi keret és vizsgálati kérdések
+
+
+ A vizsgálat tárgya a magyar férfi professzionális klubfutball. A tömegsport, az olimpiai sportok és
+ a közösségi utánpótlás társadalmi céljai nem vezethetők le ebből automatikusan.
+
+ A forrás eredete és számviteli szerepe két külön dimenzió
+
+ Közvetlen közpénz: költségvetési, önkormányzati vagy pályázati támogatás. Adóösztönző:
+ jogszabályi kedvezményhez kötött támogatási csatorna, külön jogcímmel és felhasználási céllal.
+
+ Államközeli kereskedelmi bevétel: állami/önkormányzati cégtől származó szponzoráció. A
+ piaci érték és a kapcsoltság külön vizsgálat tárgya.
+
+ Piaci és közösségi működési bevétel: jegy, bérlet, a klubnál maradó szolgáltatás,
+ kereskedelmi, média-, digitális, magánszponzori és tagsági bevétel. Csak azonosított jogi körrel
+ és időszakkal számítható arány.
+
+ Transzfer: az eladási eredmény, az időszaki transzfereredmény és a tényleges pénzáramlás
+ külön mutató. Finanszírozás: a tulajdonosi tőke és a hitel pénzforrást adhat, de nem működési
+ bevétel.
+
+ Kutatási kérdések
+
+ Mekkora a forráskoncentráció és a 12-24 havi sokktűrés? Mely közösségi jogok javítják az
+ elszámoltathatóságot? Mely költségszabály mérsékli a túlköltést arányos sport- és munkapiaci
+ hatással? Milyen játékosút és bevételi láb tartható fenn különböző klubtípusoknál?
+
+ Összehasonlíthatósági feltétel
+
+ A klub, az akadémia és a stadionüzemeltető adatait nem adjuk össze automatikusan. Az üzleti
+ évet nem azonosítjuk a labdarúgó-szezonnal. Ismeretlen adat nem nulla. Minden arányhoz
+ rögzített számláló, nevező, időszak, forrás és ellenőrző szükséges.
+
+ A részletes projektdefiníciók a nyilvános Módszertan és mutatók dokumentumban találhatók
+ (METODIKA_ES_MUTATOK.md).
+
+
+
+
+
+                                                                                                                5. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+4. A TAO-rendszer szerepe: pontosított
+megközelítés
+
+
+
+A látvány-csapatsport támogatási rendszer adókedvezményen alapuló finanszírozási csatorna. A
+rendszer közgazdasági és jogi értékelésekor nem elég azt mondani, hogy „állami pénz” vagy
+„magánpénz”: külön kell vizsgálni az adóbevétel-kiesést, a támogatási célokat, a kedvezményezetteket,
+az ellenőrzést és a tényleges felhasználást.
+
+A tanulmány 1.0 verziójához szükséges minimum-adatkör
+
+ • klubonként és jogcímenként jóváhagyott, lehívott és elszámolt támogatás;
+
+ • utánpótlás, infrastruktúra és működés szétválasztása;
+
+ • kapcsolt támogatói, tulajdonosi és szponzori források elkülönítése;
+
+ • auditált beszámoló és sportági program összevezetése;
+
+ • eredményességi mutatók: résztvevői bázis, játékosfejlődés, létesítmény-kihasználtság,
+  költség/eredmény.
+
+Javasolt reformelv
+
+Nem automatikus „évi 20%-os lekapcsolást” javaslunk, hanem feltételes átmenetet. A közforrás-rész
+csökkentése akkor gyorsítható, ha a klub teljesíti a licenc-, likviditási, transzparencia- és sajátbevételi
+küszöböket. Ha a rendszer utánpótlás- vagy közösségi szolgáltatást finanszíroz, annak külön,
+szolgáltatási KPI-okhoz kötött támogatási lába maradhat.
+
+A profi első csapat üzleti kockázatát és a közösségi utánpótlás társadalmi célját nem célszerű
+ugyanazzal a mércével kezelni.
+
+Ellenőrizendő jogi kérdések
+
+ • állami támogatási jog és az Európai Bizottság engedélyezési kerete;
+
+ • közbeszerzési, összeférhetetlenségi és átláthatósági követelmények;
+
+ • a támogatás és a kereskedelmi szponzoráció elhatárolása;
+
+ • visszakövetelés, szankció és átmeneti rendelkezések.
+
+
+
+
+
+                                                                                                                6. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+5. A magyar klubmodell diagnosztikai
+kerete
+
+
+
+A reform szükségességét nem retorikai állításokkal, hanem egységes adatlap segítségével kell
+megítélni. A javasolt klubdiagnosztika öt dimenziót mér.
+
+
+       Dimenzió                      Kulcsmutató                                Kockázati jel
+
+ Finanszírozás            legnagyobb 3 bevételi forrás aránya; saját bevétel;  egy forrás kiesése 6 hónapon belül működési
+                                 likvid tartalék                                      zavart okoz
+
+ Költségek               squad cost ratio; bér/árbevétel; lejárt tartozás       tartósan a bevételnövekedés felett nő a személyi
+                                                                                       jellegű ráfordítás
+
+ Irányítás                   tulajdonosi átláthatóság; kapcsolt ügyletek;       nem tisztázott döntési felelősség vagy
+                           független felügyelet                                érdekkonfliktus
+
+ Sport                     hazai nevelésű játékpercek; első csapatba jutás;    magas képzési költség mellett kevés tartós első
+                            UEFA/ligateljesítmény                            csapatos szereplés
+
+ Közönség                  kihasználtság; visszatérési arány; egy nézőre jutó   ingyenes/akciós belépés nélkül nem tartható a
+                           bevétel                                             látogatottság
+
+Fontos módszertani különbség
+
+Az alacsony nézőszám önmagában nem bizonyít rossz menedzsmentet, és a magas nézőszám sem
+bizonyít pénzügyi fenntarthatóságot. Hasonlóan, a nemzetközi kupaszereplés rövid távú eredmény, míg
+az akadémiai működés többéves ciklusban értékelhető. A KPI-ket ezért egyszerre és idősorban kell
+vizsgálni.
+
+A cél nem klubok megbélyegzése, hanem annak megállapítása, hogy mely függőségek csökkenthetők
+reálisan, milyen ütemben és milyen ellenőrzés mellett.
+
+
+
+
+
+                                                                                                                7. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+6. Nemzetközi modellek - mit állíthatunk
+biztonsággal?
+
+
+
+
+      Modell            Átvehető elem          Amit nem szabad automatikusan       Magyar relevancia
+                                                              átvenni
+
+
+ Német 50+1            tagsági kontroll, többségi szavazati   nem garantál önmagában alacsony árat vagy jó      védett szurkolói jogok és
+                           befolyás, közösségi legitimitás        pénzügyeket; kivételek és jogviták vannak           következetes licencelés
+
+
+ Spanyol tagi klub        választott vezetés, közösségi         az óriásklubok bevételi mérete, adóssága és          egyesületi vagy alapítványi
+                            tulajdon, eladhatóság korlátozása      politikai kultúrája nem reprodukálható                 kontroll bizonyos
+                                                                                                          klubdöntésekben
+
+
+ Angol magántőke        professzionális menedzsment,      nem „politika nélküli”; állami hátterű tulajdonosok    kompetenciaalapú vezetés,
+                            globális média- és kereskedelmi      és nagy vagyoni különbségek is vannak             kereskedelmi KPI, tulajdonosi
+                       termék                                                                             alkalmasság
+
+
+ Amerikai ligák          bevételmegosztás, kollektív            zárt liga, draft és kollektív alku nélkül a salary cap    bevételarányos költségfegyelem
+                          költségszabály, központi          nem másolható                                   és központi bevételmegosztás
+                          termékfejlesztés
+
+
+ Horvát/belga export     képzés, scouting, első csapatos út    egy-egy klub sikere nem országos oksági              exportportfólió,
+                        és játékoskereskedelem               bizonyíték; transzferek volatilisek                     továbbértékesítési részesedés,
+                         összekapcsolása                                                                        képzési KPI
+
+
+A nemzetközi összevetés célja nem „legjobb ország” kiválasztása. Az intézményi elemek csak a
+hozzájuk tartozó jogi, piaci és kulturális környezettel együtt értelmezhetők.
+
+
+
+
+
+                                                                                                                8. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+7. A hibrid modell tervezési alapelvei
+
+
+
+A modell nem négy külföldi rendszer mechanikus összeadása. Hat tervezési elv alapján választja ki a
+hazai környezetben tesztelhető elemeket.
+
+ • Jogsemlegesség: lehetőség szerint nem állampolgárság, hanem képzési hely, minőségi teljesítmény
+  és szerződéses ösztönző alapján differenciál.
+
+ • Arányosság: a korlátozás nem lehet szigorúbb annál, ami a legitim sportcélhoz szükséges.
+
+ • Bevételhez kötés: a költségkorlát a klub valós és ellenőrzött bevételéhez igazodik.
+
+ • Átlátható kivételek: minden eltérés előre rögzített, nyilvános és ellenőrizhető feltételekhez kötött.
+
+ • Átmeneti védelem: a reform nem idézhet elő hirtelen fizetésképtelenséget vagy az utánpótlás
+   leállását.
+
+ • Mérhető visszacsatolás: minden intézkedéshez bázisérték, célérték, adatgazda és korrekciós szabály
+   tartozik.
+
+A négy pillér kapcsolata
+
+
+           Pillér              Elsődleges cél               Fő eszköz            Nem kívánt hatás elleni
+                                                                                                  biztosíték
+
+
+ Közösségi kontroll            legitimitás és                    védett ügyek, tagi képviselet, éves        összeférhetetlenség, képzettségi
+                            elszámoltathatóság             közmeghallgatás                     minimum, sürgősségi döntési rend
+
+
+ Költségfegyelem             bérinfláció és túlköltés           bevételarányos squad cost és likviditási   fokozatosság, fellebbezés, független
+                           mérséklése                        teszt                                      audit
+
+
+ Tehetségút                minőségi első csapatos            fejlesztési KPI és ösztönző alap           nemzetiségi semlegesség, minőségi
+                         átmenet                                                           küszöb
+
+
+  Piaci növekedés              saját bevétel és               CRM, meccsnap, tagság, helyi            adatvédelem, hozzáférhetőség, reális
+                           közönségkapcsolat              partnerség                               kapacitáscél
+
+
+
+
+
+                                                                                                                9. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+8. Közösségi kontroll és klubirányítás
+
+
+
+Az eredeti, egységes 25%-os szurkolói blokkoló részesedés helyett több jogi megoldási út vizsgálható. A
+megfelelő forma függ attól, hogy a klub egyesület, gazdasági társaság, önkormányzati vagy
+magántulajdonú struktúrában működik.
+
+Lehetséges minimumcsomag
+
+ • évente legalább egy nyilvános, kérdezhető klubfórum;
+
+ • szurkolói tanács választott tagokkal és közzétett ügyrenddel;
+
+ • egy felügyelőbizottsági vagy tanácsadó testületi hely;
+
+ • előzetes konzultáció a klubnév, címer, színek, székhely és hazai pálya tartós megváltoztatásáról;
+
+ • közérthető éves jelentés a tulajdonosi szerkezetről, fő bevételi kategóriákról és kapcsolt ügyletekről.
+
+Emelt szintű opció
+
+Pilotban vizsgálható a „védett ügyek” rendszere: bizonyos identitás- és közösségi döntésekhez
+minősített támogatás kellene a tagsági/szurkolói testülettől. Ez nem jelentene általános vétót az
+átigazolások, edzőválasztás vagy napi üzleti döntések felett.
+
+Nyitott jogi kérdések
+
+ • hogyan illeszkedik a Polgári Törvénykönyvhöz, a sporttörvényhez és a társasági joghoz;
+
+ • milyen döntések ruházhatók át vagy tehetők jóváhagyás-kötelessé;
+
+ • hogyan biztosítható a tagság nyitottsága, adatvédelme és manipulációmentes választása;
+
+ • milyen összeférhetetlenségi szabály kell politikai tisztségviselők, tulajdonosok és támogatók esetére.
+
+A közösségi kontroll célja nem a professzionális menedzsment helyettesítése, hanem a stratégiai
+elszámoltathatóság és a klubidentitás védelme.
+
+
+
+
+
+                                                                                                     10. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 9. Pénzügyi fenntarthatóság és
+ költségkontroll
+
+
+ A klubok eltérő bevétele és költségszerkezete miatt a fix forintösszegű bérplafon helyett
+ bevételarányos költségmutatót vizsgálunk. A hazai alkalmazás továbbra is konzultációs javaslat.
+
+ UEFA-referencia és hazai mutató
+
+ A 2026-os UEFA-szabályzat 93. cikke és K melléklete rögzíti a teljes keretköltség-rátát, annak
+ korrekcióit és eltérő elszámolási időszakait. A 94. cikk szerinti határ 70%. A teljes személyi
+ ráfordítás / működési bevétel mutató nem ennek helyettesítője. [13-14]
+
+ Hiányzó transzfer-, amortizációs, kölcsönügyleti vagy közvetítői adatokból nem közlünk
+ UEFA-megfelelőséget. Korábbi szezonok jogi minősítéséhez az akkori szabályzat alkalmazandó.
+
+ Kiegészítő projektmutatók
+
+ Lejárt kötelezettség: esedékesség, összeg, jogcím, vitatottság és átütemezés külön. A
+ beszámolóban nem említett tartozás nem tekinthető nullának.
+
+ Likviditás: szabad pénz / a következő három hónap átlagos havi fix készpénzkiadása. A
+ hitelkeret és a garancia külön adat. Havi értékelés és 13 hetes esedékességi cash-flow
+ szükséges.
+
+ Tulajdonosi forrás: tőke, kölcsön, támogatás és kapcsolt szponzori ügylet elkülönítése; a
+ tranzakció és piaci értéke dokumentálandó.
+
+
+  Időpont       Korábbi hazai célpélda           Státusz
+
+
+   0. év             adatfelvétel és próbaszámítás         nincs új szankció
+
+
+   1. év         90%                       nem kalibrált modellfeltételezés
+
+
+   2. év         80%                       nem kalibrált modellfeltételezés
+
+
+   3. évtől        70-75%                              hazai opció; nem UEFA-felmentés
+
+
+ A fenti sáv nem jogszabály és nem bevezetési menetrend. Az UEFA hatálya alá tartozó klub saját
+ kötelezettségeit nem módosítja. Részletes mutatók: METODIKA_ES_MUTATOK.md, 2-4. rész.
+
+
+
+
+
+                                                                                                     11. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+10. Utánpótlás, játékosút és export
+
+
+
+A modell célja nem pusztán több fiatal pályára küldése, hanem a fejlesztés minőségének, az első
+csapatba vezető útnak és a sportgazdasági megtérülésnek a javítása. A kényszerű játékperc
+önmagában felhajthatja a jogosultsággal rendelkező játékosok árát, ezért a játékosutat és az edzői
+munkát együtt kell mérni.
+
+Az edző mint rendszerszintű tényező
+
+
+A FIFA tehetségfejlesztési programja a játékosok, az edzők és a játékvezetők fejlődési útját
+összekapcsolt rendszerként kezeli. Ez arra utal, hogy az akadémiai ráfordítás önmagában nem
+eredménymutató: a szakmai személyzet minősége, a közös módszertan és a következetes
+visszacsatolás ugyanilyen fontos. [9]
+Javasolt edzői minimumrendszer
+
+
+ • nyílt, kompetenciaalapú kiválasztás, dokumentált szakmai profil és összeférhetetlenségi szabály;
+
+ • éves továbbképzési terv és rendszeres módszertani megújítás, nem pusztán érvényes licenc;
+
+ • korosztályokon átívelő, klubszintű játékosfejlesztési elvek és átadási protokoll;
+
+ • független szakmai megfigyelés, játékosfejlődési adatok és minőségi értékelés kombinációja;
+
+ • sporttudományi, mentális, pedagógiai és gyermekvédelmi standardok kötelező alkalmazása;
+
+ • az edzői ösztönző ne egyetlen csapat rövid távú eredményéhez, hanem a játékosút minőségéhez
+  kötődjön.
+
+Nem generációcsere, hanem minőségi kapu
+
+
+A program nem állítja, hogy a korábban dolgozó edzők általában alkalmatlanok vagy „megélhetési
+edzők”. Ilyen minősítés adatok nélkül nem védhető. A javaslat lényege az, hogy a belépés, a
+továbbképzés, az előrelépés és a szerződéshosszabbítás átlátható szakmai követelményekhez
+kötődjön - életkortól és korábbi kapcsolatrendszertől függetlenül.
+
+
+Teljesítménykultúra: a magas edzésintenzitás, fegyelem és versenyszellem fontos, de nem azonos a
+túlterhelés vagy a megalázó bánásmód elfogadásával. A terhelést sporttudományi adatokhoz, életkorhoz,
+regenerációhoz és gyermekvédelmi szabályokhoz kell igazítani.
+
+
+
+
+
+                                                                                                     12. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 10.2. Az akadémiai eredményesség
+mérése
+
+
+ Az akadémia eredménye az első csapatos beépítés, a más klubnál folytatott pálya, a fejlődés, a
+ gazdasági kimenet és a kettős életpálya együttes vizsgálatából értelmezhető.
+
+
+  Terület          Konzultációs mutató                       Értelmezési feltétel
+
+
+   Első csapat        bemutatkozók; 900/1500 bajnoki percet elérők   nyers perc; a küszöb nem validált optimum
+
+
+  Pályán maradás   3 és 5 év múlva is profi szinten játszók             teljes induló kohorsz és hiányzók követése
+
+
+  Továbblépés       dokumentált sportszintváltás                     előre rögzített szintbesorolás
+
+
+  Gazdasági          eladási eredmény és pénzáramlás külön           képzési/szolidaritási tétel egyszer számít
+  kimenet
+
+
+   Edzői munka       egyéni célok és fejlődési trend               önmagában nem bizonyít oksági hozzáadott
+                                                                       értéket
+
+
+   Kettős életpálya    tanulás, végzettség, lemorzsolódás               jogszerű, aggregált utánkövetés
+
+
+ A klubnál képzett játékosok aránya az összes játékosperchez viszonyít. A képzési előéletet
+ regisztrációval kell igazolni. Versenyszint-súlyok hiányában nyers perceket közlünk
+ sorozatonként; összevont „minőségi percet” még nem számolunk.
+
+ Nemzetközi példák és korlátaik
+
+ Spanyolország: a Real Madrid több szintű akadémiai útja klubszintű példa, nem minden spanyol klub
+ modelljének bizonyítéka. [11] Horvátország: a HNS akadémiai és oktatási struktúrája látható; a
+ klubfinanszírozás külön vizsgálandó. [10] Szerbia: a teljesen piaci működés állítása még nem igazolt. A CIES
+ a tényleges tapasztalat méréséhez ad módszertani példát, nem kész magyar súlyokat. [12]
+
+ Szurkolói tapasztalatból kutatási hipotézis
+
+ A Vidi saját nevelésű játékosainak tartós beépítésére vonatkozó észrevétel ellenőrzéséhez 15-20 szezon
+ keret-, játékperc- és pályaadatait kell vizsgálni. A más klubnál hasznosult játékost is követni kell. A 6-8
+ játékos rövid pilotja ezt nem helyettesíti.
+
+
+
+
+
+                                                                                                     13. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+11. Szurkolói élmény és piaci bevétel
+
+
+
+A korábbi 8-10 ezres nézőszámcél helyett klubspecifikus növekedési pálya szükséges. Egy kisvárosi
+klub, egy fővárosi nagyklub és egy regionális akadémiai klub nem azonos piacon működik.
+
+Bevételi tölcsér
+
+
+       Szint                  Mérőszám                            Lehetséges beavatkozás
+
+ Elérés                 helyi ismertség, digitális követő,              iskolai/egyesületi partnerség, helyi tartalom, egyszerű
+                       adatbázis-hozzájárulás                      jegyvásárlás
+
+ Első látogatás         új vásárló, családi csoport, konverzió        próbajegy, közlekedési csomag, világos meccsnapi információ
+
+ Visszatérés         90/180 napos visszatérési arány          CRM, személyre szabott ajánlat, panaszkezelés
+
+ Érték              egy nézőre jutó nettó bevétel                büfé, merchandise, tagság, hospitality
+
+ Kötődés              tag/szurkolói tanácsi részvétel, NPS,         közösségi jogok, átlátható döntések, helyi program
+                    önkéntesség
+
+KPI-csomag
+
+ • stadion-kihasználtság és fizető nézők aránya;
+
+ • átlagos jegybevétel és teljes meccsnapi költés látogatónként;
+
+ • új látogató 90 napon belüli visszatérése;
+
+ • szezonbérlet megújítás és tagsági konverzió;
+
+ • szponzori megtartás, nem állami magánszponzori részesedés;
+
+ • ügyfélelégedettség, biztonsági és hozzáférhetőségi panaszok.
+
+A marketing nem helyettesíti a sportszakmai hitelességet. A közönségkapcsolatot a teljes klubirányítás
+részévé kell tenni.
+
+
+
+
+
+                                                                                                     14. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 12. Ötéves átmenet - döntési kapukkal
+
+
+
+  Időszak        Feladat                              Továbblépés feltétele
+
+
+  0-6 hónap        adatfelvétel, jogi előszűrés, klubtipológia     megbízható bázis és önkéntes partner
+
+
+  6-18 hónap      1-2 megvalósíthatósági pilot               mérhető adatminőség, kezelhető teher és
+                                                                    finanszírozás
+
+
+   2. év             licenc-próbaszámítás, független értékelés      feltárt sport- és munkapiaci kockázatok
+
+
+   3. év            esetleges szabályozási javaslat             a konkrét beavatkozáshoz elegendő bizonyíték
+
+
+   4-5. év            feltételes kiterjesztés és utánkövetés         pénzügyi, sport- és közösségi feltételek teljesülése
+
+
+ Ez munkaterv, nem automatikus szabálybevezetés. A 3-5 éves akadémiai kimenetek
+ megfigyelése tovább tarthat, mint az első rövid pilot. Hiányzó eredményt nem pótol a tervezett
+ naptári ütem.
+
+ Védőkorlátok
+
+ Az utánpótlás és a közösségi szolgáltatás támogatása külön feladat. A profi csapat reformjával
+ együtt nem vágható vissza automatikusan.
+
+ A támogatási láb csökkentése csak igazolt pénzügyi teljesítőképességgel és 13 hetes cash-flow
+ tervvel vizsgálható. A szerződött jövőbeli bevétel önmagában nem rendelkezésre álló pénz.
+
+ Súlyos adat-, integritási, fizetőképességi vagy gyermekvédelmi hiba esetén felfüggesztési
+ döntés szükséges. A küszöböket, döntési jogokat és helyreállítási tervet indulás előtt rögzíteni
+ kell.
+
+ Független értékelő dokumentálja a változásokat és a bizonytalanságokat. A cél ellenőrzött,
+ diverzifikált és sokkálló finanszírozás; a közforrás nullázása nem önálló sikerkritérium.
+
+
+
+
+
+                                                                                                     15. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 13. Pénzügyi példa - 0-5. évi
+eredménypálya
+
+
+ Minden összeg saját modellfeltételezés, nem klubadat és nem NB I-átlag. Egység: millió Ft,
+ 2026-os változatlan árszint, nettó ÁFA nélküli bemenetek.
+
+ A 0. évi 3 400 M Ft eredményfedezet: 2 400 M Ft köz-/államközeli működési bevétel + 500 M Ft
+ piaci működési bevétel + 500 M Ft játékoseladási eredmény. A modellezett működési
+ forráskiesés így 2 400 M Ft, nem 3 000 M Ft.
+
+
+  Mutató, M Ft                            0. év      1. év      2. év      3. év      4. év      5. év
+
+
+   Köz-/államközeli működési bevétel        2 400     1 920     1 440     960       480       0
+
+
+   Piaci működési bevétel                 500       700       950       1 250     1 600     1 900
+
+
+   Játékoseladási eredmény               500       500       550       600       700       800
+
+
+  Összes eredményfedezet               3 400     3 120     2 940     2 810     2 780     2 700
+
+
+  Működési költség amortizációval         3 400     3 200     3 000     2 800     2 600     2 500
+
+
+   Egyszerűsített időszaki eredmény         0          -80        -60       10        180       200
+
+
+ Eredményfedezet = működési bevételek + játékoseladási eredmény. Ez nem árbevétel és
+ nem pénzállomány. Időszaki eredmény = eredményfedezet - működési költség.
+
+ A költség minden évben 200 M Ft játékosamortizációt tartalmaz. A kivezetett könyv szerinti
+ érték és az eladási díj már az eladási eredményben szerepel; a működési költség nem vonja le
+ újra.
+
+ A korábbi 2 500 M Ft „biztonsági küszöb” helyett itt az 5. év kifejezett költségfeltételezése áll. A
+ külön pénzpuffer 200 M Ft. Mindkettő klubadatokkal kalibrálandó.
+
+ A szerepeltetett egyenletes forráscsökkentés szemléltető stresszpálya, nem javasolt
+ automatikus kivezetés. A következő oldal kimutatja az átmenet pénzigényét.
+
+
+
+
+
+                                                                                                     16. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 13.2. Pénzforgalom és finanszírozási
+hiány
+
+
+ Egység: M Ft. Nyitó szabad pénz és elvárt záró puffer: 200 M Ft. A példában az elszámolás és a
+ pénzügyi rendezés éven belül egybeesik; a valós részletfizetések külön tervet igényelnek.
+
+
+  Mutató, M Ft                            0. év      1. év      2. év      3. év      4. év      5. év
+
+
+   Eladási ellenérték befolyása             850       850       900       950       1 050     1 150
+
+
+  Közvetlen eladási díjfizetés              50        50        50        50        50        50
+
+
+   Játékosbeszerzés kifizetése              500       600       600       650       650       650
+
+
+  Nettó transzfer-pénzáramlás             300       200       250       250       350       450
+
+
+  Készpénzes működési kiadás            3 200     3 000     2 800     2 600     2 400     2 300
+
+
+  Egyéb beruházási kifizetés              0         50        50        50        50        50
+
+
+  Pénzváltozás új finanszírozás előtt        0          -230       -210       -190       -20       0
+
+
+   Elméleti záró pénz pótlás nélkül          200        -30        -240       -430       -450       -450
+
+
+  Éves pótlólagos igény 200-as pufferhez    0         230       210       190       20        0
+
+
+  Halmozott finanszírozási igény           0         230       440       630       650       650
+
+
+ Éves pénzváltozás = időszaki eredmény + amortizáció + kivezetett könyv szerinti érték -
+ játékosbeszerzés - egyéb beruházás.
+
+ A negatív elméleti pénzállomány kielégítetlen hiányt jelez. A puffer megtartásához összesen
+ 650 M Ft új forrás kellene; puffer nélkül a nem negatív éves állományhoz 450 M Ft. Forrása és
+ formája nincs igazolva. Hitel esetén a kamat és törlesztés további igény.
+
+ Az adó, kamat, régi adósság törlesztése, forgótőke- és nettó ÁFA-pénzmozgás, egyéb nem pénzbeli korrekció
+ és a beruházási amortizáció itt nulla feltételezés. A teljes feltételezéslista, a keretérték hídja és újraszámítás:
+ PENZUGYI_MODELL.md. Az éves tábla nem helyettesíti a havi/13 hetes likviditási tervet.
+
+
+
+
+
+                                                                                                     17. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 14. Három végpont és stresszpontok
+
+
+ Az 5. évi végpontok M Ft-ban, azonos költség- és kifizetési feltételekkel. A konzervatív és
+ optimista eset végponti érzékenység; csak a központi esethez tartozik teljes 0-5. évi pálya.
+
+
+  Eset               Piaci bevétel    Eladási         Eredmény-       Időszaki        Pénz-
+                               eredmény        fedezet         eredmény       változás
+
+
+   Konzervatív       1 600           600             2 200             -300             -500
+
+
+   Központi          1 900           800             2 700            200            0
+
+
+   Optimista         2 400           1 100            3 500            1 000           800
+
+
+ Közös feltétel: 2 500 M Ft költség, benne 200 M Ft amortizáció; 300 M Ft eladott könyv szerinti
+ érték; 650 M Ft játékosbeszerzés és 50 M Ft egyéb beruházás; a vizsgált köz-/államközeli
+ működési bevétel nulla.
+
+ A központi eset 2 700 M Ft fedezete nem teljesíti a korábbi 3 000 M Ft célt. A +200 M Ft
+ eredmény itt nulla szabad éves pénzáramlással jár. Az átmeneti finanszírozási igényt a 13.2.
+ fejezet mutatja.
+
+ Eladás nélküli stressz
+
+ Ha az 5. évben nincs játékoseladás, az 1 100 M Ft nettó eladási pénzbevétel kiesik. Változatlan
+ működési és beszerzési feltételekkel a pénzváltozás -1 100 M Ft. Ilyenkor eladási díjat és könyv
+ szerinti kivezetést sem számolunk.
+
+ További, külön kalibrálandó stresszek
+
+ Két átigazolási ablak eladás nélkül; 20%-os meccsnapi bevételkiesés; főszponzor elvesztése;
+ kiesés vagy elmaradó kupabevétel; 10-15%-os bér- és szolgáltatási költségemelkedés. A
+ hatásokat nem szabad automatikusan összeadni, az együttjárást és a reakciókat is modellezni
+ kell.
+
+ A négy pillér és a finanszírozási átállás működőképessége e szemléltető számokból még nem
+ igazolható.
+
+
+
+
+
+                                                                                                     18. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+15. Jogi és szabályozási kockázati
+térkép
+
+
+
+
+      Téma                    Fő kockázat                              Konzultációs kérdés
+
+
+  Szerzői jog               az ötlet önmagában nem védett; az egyéni-eredeti   milyen formában és mely verziót célszerű műnyilvántartásba
+                                kifejtés igen                                      venni?
+
+
+ Védjegy                a munkacím lehet leíró, korábbi jogba ütközhet       indokolt-e előzetes kutatás, és milyen áru-/szolgáltatási
+                        vagy nem rendelkezik megkülönböztető             osztályokban?
+                          képességgel
+
+
+ EU munkajog             nemzetiségi vagy közvetetten diszkriminatív        mely képzési ösztönző alkalmas és arányos?
+                            játékosszabály
+
+
+ Versenyjog                  kollektív bér- vagy átigazolási korlátozás            milyen legitim cél, kollektív alku és arányosság szükséges?
+
+
+  Sportjog/licenc            szövetségi hatáskör, jogorvoslat, egyenlő          mely elem vezethető be licencfeltételként, ösztönzőként vagy
+                      bánásmód                                      önkéntes pilotként?
+
+
+ Állami támogatás           szelektív előny, engedélyezési és visszakövetelési   hogyan választható szét a közösségi szolgáltatás és a profi
+                          kockázat                                                  üzleti működés?
+
+
+ Társasági jog               szurkolói vétó és vezetői felelősség ütközése       mely védett ügyek és testületi jogok érvényesíthetők?
+
+
+Az Európai Unió Bíróságának Royal Antwerp-ügyben hozott ítélete alapján még a hazai nevelésű
+játékosokra vonatkozó szabályoknál is vizsgálni kell a versenyhatást, a munkavállalók szabad mozgását
+és az arányosságot. Ezért az eredeti öt légiósos korlát nem maradt a javaslatban.
+
+A jogi review feladata nem csupán a tiltott elemek kiszűrése, hanem olyan alternatív konstrukciók
+kialakítása, amelyek ugyanazt a célt kevésbé korlátozó módon érik el.
+
+
+
+
+
+                                                                                                     19. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 16. A 6-12 hónapos megvalósíthatósági
+ pilot
+
+
+ Az első pilot az adatgyűjtés és az együttműködés működőképességét vizsgálja. Nem tartalmaz
+ kötelező bérplafont vagy nemzetiségi kvótát. Rövid megfigyelésből országos vagy többéves
+ oksági hatás nem állapítható meg.
+
+ Pilotmodulok
+
+ Adat és transzparencia: egységes riport, kapcsolt ügyletek, adatlefedettség, ellenőrzési nyom
+ és adminisztrációs idő.
+
+ Közösség: mandátummal rendelkező képviselet, dokumentált konzultáció, válaszidő és a
+ védett ügyek tényleges gyakorlása.
+
+ Kereskedelem: nettó elszámolt bevétel, befolyt pénz és szerződésállomány külön; fizető
+ kihasználtság és 90 napos visszatérés.
+
+ Tehetségút: 6-8 előre meghatározott módon kiválasztott játékos fejlesztési és adatrögzítési
+ folyamatpróbája. A teljes jogosult csoport mérete és a kiválasztás torzítása közlendő.
+
+ Pénzügy: keretköltség-próbaszámítás, 13 hetes cash-flow, stressz- és helyreállítási terv.
+
+ Előre rögzítendő értékelési keret
+
+ Bázisérték, adatgazda, azonos időszak és definíció, adatlefedettségi küszöb, összevetési terv,
+ költség és leállítási szabály. A lehetséges +10-20% piaci bevételi cél ténylegesen elszámolt
+ bevételre vonatkozik; jövőbeli szerződés nem helyettesítheti.
+
+ A +10%-os fizetőkihasználtság-cél relatív változás, nem +10 százalékpont. Árat, kapacitást és
+ sportsikert is rögzíteni kell. A javulás előtte/utána megfigyelése nem önmagában oksági
+ bizonyíték.
+
+ 3-5 éves utánkövetés: teljes akadémiai kohorsz pályán maradása, szintváltása és kettős
+ életpályája. A még le nem telt időhorizont nem minősíthető sikernek vagy kudarcnak.
+
+ A pilotot független szakmai partner értékeli. A heti egyszeri, 12 hetes forrásfeltárás külön
+ előkészítő munkaciklus; nem klubpilot és nem a modell validálása.
+
+
+
+
+
+                                                                                                     20. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 17. KPI- és adatkeret
+
+
+ Egységes projektdefiníciók, azonos szervezeti kör és időszak szükséges. A mutatókat
+ adatgazdával, forrással, ellenőrzési nyommal és a hiányok megjelölésével közöljük.
+
+
+  Mutató              Számítás / feltétel                                Ritmus / adatgazda
+
+
+   Saját bevételi arány      piaci és közösségi működési bevétel / teljes működési         év; pénzügy + auditor
+                           bevétel
+
+
+  Koncentráció           azonos érdekkörű top 3 külső működési forrás / teljes         év; pénzügy
+                        működési bevétel
+
+
+  UEFA keretköltség-ráta  a 93. cikk és K melléklet teljes definíciója; hiányzó adatnál    év; klub + licencadat
+                           nincs ráta
+
+
+   Likviditási hónap        szabad pénz / következő 3 hó átlagos havi fix                hó; pénzügy
+                         készpénzkiadása
+
+
+   Saját nevelésű            igazolt klubképzési feltételű játékospercek / összes bajnoki   szezon; akadémia + liga
+   játékperc                játékosperc
+
+
+   Súlyozott perc          nyers perc × előre rögzített súly; validált súly nélkül nem     sorozatonként nyers adat
+                          számoljuk
+
+
+   Fizető kihasználtság      fizetett belépéssel jelen lévők / adott meccs értékesíthető    mérkőzés; jegyrendszer
+                          kapacitása
+
+
+   Visszatérés                új vevői kohorsz visszatérő tagja / teljes követési idejű       90/180 nap; CRM
+                          kohorsz
+
+
+  Közösségi befolyás       jogalap, mandátum, részvétel, határidős válasz és             félév; klub + képviselet
+                         dokumentált döntés
+
+
+ A transzfermutatók a következő oldalon szerepelnek. A bevételi, játékperc- és közönségarányok
+ százalékban, a likviditás hónapban közlendő. Nulla/negatív nevező esetén nincs értelmezhető bevételarány.
+ A hiány nem nulla; összpontszám és klubrangsor még nincs.
+
+ Részletes definíciók, képzési korhatár, kohorsz, forrás és adatminőség: METODIKA_ES_MUTATOK.md.
+ Nyilvánosan csak megfelelően aggregált adat közölhető.
+
+
+
+
+
+                                                                                                     21. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 17.2. Transzfereredmény és pénzáramlás
+
+
+ A korábbi képlet a teljes bekerülési értéket és az amortizációt is levonta. Ezt javítjuk: az
+ eladáskor fennálló könyv szerinti értékből indulunk, így a korábbi költség nem vonódik le még
+ egyszer. [15]
+
+ 1. Eladási nyereség vagy veszteség
+
+ Elszámolt eladási ellenérték - közvetlen eladási díjak - kivezetéskori könyv szerinti érték. A nettó
+ ellenértékből már levont díjat nem vonjuk le újra.
+
+ 2. Időszaki transzfereredmény
+
+ Az eladási eredményekhez hozzáadjuk az egyéb transzferbevételeket, levonjuk az időszaki
+ amortizációt, értékvesztést és a még el nem számolt kapcsolódó ráfordításokat. Minden tétel
+ egyszer szerepel. Ez külön projektkimutatás, nem automatikusan az UEFA-ráta nevezője.
+
+ 3. Transzfer-pénzáramlás
+
+ Tényleges befolyó transzferpénz - az időszakban kifizetett beszerzések és közvetlen díjak. Nincs
+ amortizációs levonás. A részletfizetés és a bónusz teljesítésének időpontját külön követjük.
+
+ Egyszerű példa, M Ft
+
+ 100 bekerülés - 40 halmozott amortizáció = 60 könyv szerinti érték. 150 eladási ellenérték - 10
+  díj - 60 könyv szerinti érték = 80 eladási nyereség.
+
+ Ha az adott évben 90 folyik be, 10 díjat és 50 új beszerzést fizetünk, a transzfer-pénzáramlás
+ 30. Az eredmény és a pénzáramlás eltérését a mérleg és a fizetési ütemezés vezeti át.
+
+ A példa aktivált regisztrációs jogokra vonatkozik. A beszerzést azonnal költségként elszámoló klubnál más
+ átvezetés kell. Időszak, számviteli politika és nettósítás dokumentálandó. Forrás: UEFA 2026 G.3.3, G.3.4(5),
+ G.3.6; adatgazda: pénzügy + auditor. A 13. fejezet eladási eredményt használ, az amortizációt a működési
+ költségben számolja.
+
+
+
+
+
+                                                                                                     22. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 18. Kérdések a szakmai felülvizsgálathoz
+
+
+ A szakmai konzultáció célja a modell gyenge pontjainak, az adatfeltételeknek és a következő
+ kutatási lépésnek az azonosítása. Az egyeztetés nem jelent támogatói vagy validációs
+ nyilatkozatot.
+
+ Sportmenedzsment és sportgazdaság
+
+ 1. Koherens-e a négy pillér kapcsolata, és mely elemhez hiányzik lényeges bizonyíték?
+
+ 2. Mely pénzügyi és játékosút-mutató módosítandó? Milyen képzési kohorsz és összevetési
+ csoport szükséges?
+
+ 3. Milyen feltételekkel hasonlítható össze az FTC, a Puskás Akadémia és az MTK három szezonja
+ az eltérő jogi és beszámolási körök mellett?
+
+ 4. Mely elsődleges adatforrás és kispiaci európai klubmodell használható? Melyik intézményi
+ elem ültethető át?
+
+ 5. Milyen adatminőségi és lezárási feltétele legyen a 12 hetes, heti egyszeri forrásfeltárásnak?
+ Hogyan ellenőrizzük az automatizált adatjelölteket?
+
+ 6. Mit vizsgálhat egy 6-12 hónapos megvalósíthatósági pilot, és mihez kell többéves
+ utánkövetés?
+
+ Szellemi tulajdon és intézményi együttműködés
+
+ Mely dokumentumelemek védhetők, és mit bizonyít az önkéntes műnyilvántartás? Melyik
+ aktuális változat benyújtása indokolt? Milyen névkutatás és szolgáltatási osztály szükséges?
+
+ Hogyan rögzíthető a meglévő anyag, a későbbi közös fejlesztés, a szerzői és felhasználási jog, az
+ adatkezelés és az esetleges licenc? Milyen intézményi eljárás és AI-közreműködési
+ dokumentáció megfelelő?
+
+ A jogi és szakmai válaszokat külön kell dokumentálni. A nyilvános állítás csak a ténylegesen
+ megkapott és közlésre alkalmas visszajelzésre épülhet.
+
+
+
+
+
+                                                                                                     23. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+19. Következő lépések
+
+
+
+
+  Sorrend                       Lépés                                       Kimenet
+
+ 1.           SZTNH/IP-konzultáció és előzetes névkutatás              védelmi és dokumentációs útiterv
+
+ 2.          TF sportmenedzsment/sportgazdasági szakmai review       írásos észrevétel vagy konzultáció
+
+ 3.             sportjogi, EU-jogi és versenyjogi memo                      piros/sárga/zöld intézkedési térkép
+
+ 4.            nyilvános és klubszintű adatgyűjtés                            kalibrált bázismodell
+
+ 5.             Tiszta Pálya Program 1.0                               15-25 oldalas végleges white paper + 2 oldalas
+                                                                       executive summary
+
+ 6.           MLSZ/Sportintézet szakmai egyeztetés                          pilot feltételek és adat-hozzáférés
+
+ 7.           önkéntes klubpilot                                      6-12 havi mérési és értékelési jelentés
+
+
+Mikor nem szabad továbbmenni?
+
+ • ha a klubadatok nem ellenőrizhetők vagy a kapcsolt finanszírozás nem tárható fel;
+
+ • ha a javasolt játékosszabály aránytalan EU-jogi kockázatot hordoz;
+
+ • ha a költségcsökkentés az utánpótlást és a közösségi szolgáltatást veszélyezteti;
+
+ • ha a szurkolói testület nem valódi, nyitott és elszámoltatható képviselet;
+
+ • ha a modell csak optimista sporteredmény mellett finanszírozható.
+
+A következő mérföldkő az 1.0 verzió, amely már a két most kezdeményezett konzultáció válaszait is
+beépíti.
+
+
+
+
+
+                                                                                                     24. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+20. Források és jogi hivatkozások
+
+
+
+
+1. SZTNH - Önkéntes műnyilvántartás
+https://sztnh.gov.hu/kezdooldal/tudasbazis/kihez-fordulhatok_/onkentes-munyilvantartas
+A nyilvántartás bizonyítási eszköz; önmagában nem keletkeztet jogot.
+
+2. SZTNH - IP-konzultáció
+https://sztnh.gov.hu/szellemi-tulajdonvedelmi-_ip_-konzultacio
+Tájékoztatás az oltalmi formákról, a jogszerzésről és az adatbázisok használatáról.
+
+3. UEFA - Financial sustainability
+https://www.uefa.com/running-competitions/integrity/financial-sustainability/
+Fizetőképesség, stabilitás és költségkontroll; a squad cost plafon 2025/26-tól 70%.
+
+4. CJEU C-680/21 Royal Antwerp
+https://curia.europa.eu/jcms/upload/docs/application/pdf/2023-12/cp230205en.pdf
+A home-grown szabályok versenyjogi és munkavállalói szabad mozgási vizsgálata.
+
+5. CJEU C-415/93 Bosman
+https://curia.europa.eu/juris/liste.jsf?num=C-415/93
+A professzionális futball és a munkavállalók szabad mozgása.
+
+6. Premier League - Owners' and Directors' Test
+https://www.premierleague.com/en/news/102375
+Tulajdonosi és vezetői alkalmassági keret.
+
+7. TF - Sportmenedzsment Tanszék
+https://tf.hu/egyetem/szervezeti-felepites/intezetek-es-tanszekek/gazdasag-es-tarsadalomtudomanyi-intezet/sportmenedzsm
+ent-tanszek
+A szakmai review javasolt intézményi címzettje.
+
+8. TF - Sportgazdasági és Döntéstudományi Kutató Központ
+https://tf.hu/egyetem/szervezeti-felepites/intezetek-es-tanszekek/gazdasag-es-tarsadalomtudomanyi-intezet/sportgazdasagi-
+es-dontestudomanyi-kutato-kozpont
+Sportgazdasági kutatási és oktatási kompetencia.
+
+
+
+
+
+                                                                                                     25. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+20. Források - utánpótlás és edzőképzés
+
+
+
+
+9. FIFA - Talent development
+https://inside.fifa.com/talent-development
+A játékos-, edző- és játékvezető-fejlesztési utak összekapcsolása a 211 tagszövetségben.
+
+10. Horvát Labdarúgó-szövetség (HNS) - Football Academy, Education, youth competitions
+https://hns.family/en/
+Hivatalos áttekintés az akadémiai, oktatási és korosztályos szövetségi struktúráról.
+
+11. Real Madrid - Men's Youth Academy
+https://www.realmadrid.com/en-US/football/academy
+A klub hivatalos akadémiai felülete; Juvenil A, Real Madrid C és Castilla játékosút.
+
+12. CIES Football Observatory - Most seasoned U20 players
+https://football-observatory.com/WeeklyPost461
+Példa a fiatal játékosok tényleges, sportszinttel súlyozott tapasztalatának mérésére.
+Forráshasználati megjegyzés
+
+
+A nemzetközi példák nem oksági bizonyítékok és nem igazolják automatikusan a teljes ország vagy sportág „piaci”
+működését. A horvát, szerb és spanyol eseteket a tulajdonosi, közpénzügyi, játékosfejlesztési és transzferadatok
+azonos módszertanú összevetésével kell vizsgálni. A szurkolói tapasztalat kutatási hipotézis, nem statisztikai tény.
+
+
+Készítette: Kiss Tiborcz. Munkacím: Tiszta Pálya Program. Külső szakmai és jogi véleményezés előtt álló
+konzultációs változat.
+
+
+
+
+
+                                                                                                     26. oldal
+
+TISZTA PÁLYA PROGRAM 0.9.2-j1 | KONZULTÁCIÓS TERVEZET
+
+
+
+ 20.2. A javítás elsődleges forrásai
+
+
+ 13. UEFA 2026 - 93. cikk és K melléklet
+
+ A keretköltség-ráta hivatalos számítási szabálya (kattintható)
+
+ A mutató teljes definíciója és az időszakok. A hazai egyszerűsített ráta külön megnevezést
+ igényel.
+
+ 14. UEFA 2026 - 94. cikk
+
+ A 70%-os keretköltség-szabály (kattintható)
+
+ 15. UEFA 2026 - G.3 melléklet
+
+ Az átigazolások számviteli kezelése (kattintható)
+
+ Aktiválás vagy közvetlen költségelszámolás, eladási eredmény és közvetlen díjak. A
+ jogszabály/standard szerinti alkalmazás klubonként ellenőrzendő.
+
+ A kiadás ellenőrizhető kiegészítői
+
+ Módszertan és mutatók: szervezeti kör, időszak, képlet, adatgazda, hiánykezelés és pilot.
+
+ Pénzügyi modell: bemenetek, éves eredmény és cash-flow, finanszírozási hiány, végponti
+ stressz és újraszámítás.
+
+ Ellenőrzés dátuma: 2026. szeptember 22. A 2026-os UEFA-szabályok hivatkozási alapot adnak; a
+ korábbi szezonok megfelelőségét az akkori szabályok alapján kell megítélni.
+
+
+
+
+
+                                                                                                     27. oldal

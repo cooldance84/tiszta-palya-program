@@ -4,6 +4,31 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 ## [Nem kiadott]
 
+- A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
+
+## [0.9.2-j1] - 2026-09-22
+
+### Javítva
+
+- a 3 400 M Ft-os bázis összetétele és a 2 400 M Ft-os működési forráscsökkentés egységesítve;
+- 0-5. évi eredmény- és költségpálya, külön cash-flow híd, pótlólagos finanszírozási igény és végponti érzékenység;
+- a transzfereredmény korábbi kettős költséglevonása megszüntetve; eladási eredmény, időszaki eredmény és pénzáramlás külön definiálva;
+- saját bevétel, UEFA-ráta, nyers/súlyozott perc, kohorsz, közösségi befolyás és hiánykezelés pontosítva;
+- a 6-12 hónapos megvalósíthatósági pilot elválasztva a 3-5 éves utánkövetéstől; realizált bevétel és jövőbeli szerződés külön;
+- egységes 0.9.2-j1 borító, fejléc, metaadat és oldalszám; 27 oldalas fő PDF, TXT és egyoldalas összefoglaló.
+
+### Hozzáadva
+
+- `METODIKA_ES_MUTATOK.md`, `PENZUGYI_MODELL.md`, ellenőrizhető JSON-bemenet és reprodukálható kiadási script;
+- UEFA 2026 elsődleges szabályhivatkozások a költségrátához és a transzferek elszámolásához;
+- a korábbi PDF-ek történeti státuszának egyértelmű jelölése a README-ben.
+
+A javítás nem új klubadat-betöltés, nem külső szakmai validáció és nem a 0.9.3-as esettanulmány lezárása.
+
+## Korábbi munkabejegyzések (0.9.2 után)
+
+Az alábbi bejegyzések a korábbi munkafázist őrzik. Az aktuális javításokat a 0.9.2-j1 szakasz rögzíti; a régi verzió- és oldalszámok történeti adatok.
+
 ### Hozzáadva
 
 - 0.1-es nyilvános állítás–forrás mátrix 34 ellenőrzési ponttal és bizonyítottsági jelöléssel
@@ -53,3 +78,4 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 - a fix összegű bérplafon helyett bevételarányos keretszabály vizsgálata
 - a nemzetiségi kvóta helyett hazai neveléshez és játékperchez kötött ösztönzők vizsgálata
 - a pénzügyi modell elkülönítése tényadatokra és forgatókönyv-feltételezésekre
+

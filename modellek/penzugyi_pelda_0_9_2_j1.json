@@ -1,0 +1,35 @@
+{
+  "version": "0.9.2-j1",
+  "status": "Szemléltető modellfeltételezések, nem klubadatok és nem előrejelzés",
+  "unit": "millio_HUF",
+  "price_basis": "2026-os változatlan árszint, nettó ÁFA nélküli összegek",
+  "years": [0, 1, 2, 3, 4, 5],
+  "public_related_operating_income": [2400, 1920, 1440, 960, 480, 0],
+  "market_operating_income": [500, 700, 950, 1250, 1600, 1900],
+  "disposal_profit": [500, 500, 550, 600, 700, 800],
+  "operating_expenses_including_amortisation": [3400, 3200, 3000, 2800, 2600, 2500],
+  "player_amortisation": [200, 200, 200, 200, 200, 200],
+  "disposed_registrations_book_value": [300, 300, 300, 300, 300, 300],
+  "direct_disposal_fees": [50, 50, 50, 50, 50, 50],
+  "player_acquisition_payments": [500, 600, 600, 650, 650, 650],
+  "other_capex_payments": [0, 50, 50, 50, 50, 50],
+  "opening_unrestricted_cash": 200,
+  "minimum_cash_buffer": 200,
+  "initial_player_book_value": 1000,
+  "year5_scenarios": [
+    {"name": "Konzervatív", "market_operating_income": 1600, "disposal_profit": 600},
+    {"name": "Központi", "market_operating_income": 1900, "disposal_profit": 800},
+    {"name": "Optimista", "market_operating_income": 2400, "disposal_profit": 1100}
+  ],
+  "simplifications": [
+    "A működési bevételek és a készpénzes működési költségek az adott évben befolynak, illetve kifizetésre kerülnek.",
+    "A transzferellenérték és a közvetlen díjak elszámolása és pénzügyi rendezése ugyanabban az évben történik. Nincs részletfizetés, feltételes bónusz vagy követelésváltozás.",
+    "Az eredményfedezet a működési bevétel és az eladási eredmény összege; nem számviteli árbevétel és nem pénzállomány.",
+    "A működési költség tartalmazza az időszaki 200 M Ft játékosamortizációt, de nem tartalmazza a transzfereredményben már levont könyv szerinti értéket és eladási díjakat.",
+    "A játékosbeszerzéseket aktiváljuk. A keret könyv szerinti értékének mozgását külön ellenőrizzük, az éves amortizáció még nem szerződésenként számított adat.",
+    "A beruházások vizsgálati horizonton belüli amortizációja, az egyéb nem pénzbeli korrekció, a forgótőkeváltozás, a nettó ÁFA-pénzmozgás, az adó, a kamat és a régi hitel törlesztése nulla feltételezés. Valós klubnál külön felvenni szükséges.",
+    "A szükséges pótlólagos finanszírozás formája és forrása még nincs megadva. Hitel esetén a kamatot és törlesztést újra kell modellezni; a hiány kimutatása nem finanszírozási ígéret.",
+    "A 200 M Ft minimum pénzpuffer és minden bevételi, költség- és beruházási pálya belső feltételezés. A korábbi 2,5 Mrd Ft küszöb itt kizárólag az 5. év költségfeltételezése.",
+    "A támogatáscsökkentés egy stresszelt szemléltető pálya, nem javasolt automatikus kivezetési ütem. Csak az itt modellezett profi működési lábat érinti."
+  ]
+}
