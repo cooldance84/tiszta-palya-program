@@ -6,6 +6,16 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-09-23 – Kiegészítés: a Puskás Akadémia bevételi bontása nyilvános forrásból nem érhető el
+
+- A [szeptember 23-i helyzetjelentés](KUTATASI_STATUSZ_2026-09-23.md) új 8. pontja: a társaság 2022–2024-es három beszámolócsomagjának teljes átnézése (65 oldal) után a bevételi jogcímbontás **nem feltárási hiány, hanem a nyilvános közzététel felső határa**.
+- Az eredménykimutatás az árbevételt egyetlen belföldi sorban közli, az export sor mindhárom évben nulla; a kiegészítő melléklet szöveges, és nincs benne szponzori, reklám-, média-, jegy-, játékosértékesítési vagy TAO-bevételi tétel.
+- Következmény az összehasonlíthatóságra: a vizsgált három társaságból egynél a saját bevételi arány, a bevételi diverzifikáció és a szponzori koncentráció **ebből a forráskörből nem számítható**.
+- A társaságnak mindhárom évben nulla export árbevétele van, míg az FTC-nél van export szponzoráció és export tv-jogdíj.
+- Az eredeti 7. pont sorrendje javítva: az FTC összevont bevételi sorainak szétválasztása lett a legfontosabb nyitott bevételi feladat.
+
+A megállapítást **külön pontban** közöljük, nem az eredeti szöveg átírásával, mert a változás követhetősége maga is része az átláthatóságnak. A módszertani dokumentum, a mutatódefiníciók és a pénzügyi modell nem változott. A kiadás továbbra is 0.9.2-j1.
+
 ### 2026-09-23 – Forrásintegritás, MTK bevételi feltárás és forrásjegyzék
 
 - Új [kutatási helyzetjelentés](KUTATASI_STATUSZ_2026-09-23.md): a 23 elsődleges forrás SHA-256 lenyomata újraellenőrizve (23/23 egyezik), és a 22 Internet Archive-mentés bájtra azonos a lenyomatokkal.

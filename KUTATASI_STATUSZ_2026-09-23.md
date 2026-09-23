@@ -71,10 +71,25 @@ Az adatátvételt AI támogatta, és az ellenőrzési státusz ezt tükrözi: a 
 
 ## 7. A következő munkaszakasz
 
-1. **Puskás Akadémia:** a bevételi főösszegek jogcím- és partnerbontásának feltárása, a Kft. és az utánpótlás-alapítvány közötti ügyletek egyeztetése. Ez a legnagyobb jelenlegi adathiány.
-2. **FTC:** a játékosjog-értékesítés és -kölcsönadás, valamint a stadion- és marketingbevételek különválasztása, amennyire a dokumentumok engedik.
-3. **MTK:** a „ki nem emelt" gyűjtősorok tartalmának tisztázása és a támogatási átvezetés lezárása.
+1. **FTC:** a játékosjog-értékesítés és -kölcsönadás, valamint a stadion- és marketingbevételek különválasztása, amennyire a dokumentumok engedik. Ez lett a legfontosabb nyitott bevételi feladat (lásd a 8. pontot).
+2. **MTK:** a „ki nem emelt" gyűjtősorok tartalmának tisztázása és a támogatási átvezetés lezárása.
+3. **Puskás Akadémia:** a Kft. és az utánpótlás-alapítvány közötti ügyletek egyeztetése. A **bevételi jogcímbontás** viszont ebből a forráskörből nem érhető el — lásd a 8. pontot.
 4. **A működési bevételi nevező (O) egységes definíciójának** szakmai véglegesítése; ezt követően számítható a saját bevételi arány, a bevételi diverzifikáció és a szponzori koncentráció.
 5. Emberi és független szakmai felülvizsgálat, majd bevételkiesési forgatókönyv. **Ez sem bizonyítaná az önfenntarthatóságot, de megmutathatná a sérülékenységet.**
 
 A TF-től kért szakmai visszajelzés a módszertani egyeztetés része; a megkeresés nem jelent intézményi jóváhagyást vagy partnerséget.
+
+## 8. Kiegészítés ugyanezen a napon: a Puskás Akadémia bevételi bontása nyilvános forrásból nem érhető el
+
+A lap első változata a Puskás Akadémia bevételi jogcímbontását nevezte meg a legnagyobb adathiánynak. **Ezt még aznap megvizsgáltuk, és a megállapítás pontosítandó: nem feltárási hiányról van szó, hanem a nyilvános közzététel felső határáról.**
+
+A társaság 2022–2024-es három beszámolócsomagját teljes egészében átnéztük (65 oldal). Az eredmény:
+
+- Az eredménykimutatás az árbevételt **egyetlen belföldi sorban** közli, és az **export sor mindhárom évben nulla**. Ennél finomabb bontás nincs.
+- A kiegészítő melléklet **szöveges felépítésű**, nem táblázatos. A teljes anyagban **nincs szponzori, reklám-, média-, jegy-, játékosértékesítési vagy társasági adóból származó (TAO) bevételi tétel.**
+
+**Ez érinti az összehasonlíthatóságot.** A bevételi oldalon a vizsgált három társaságból egynél a gazdasági összetétel nyilvános forrásból nem ismerhető meg, ezért rá a saját bevételi arány, a bevételi diverzifikáció és a szponzori koncentráció **ebből a forráskörből nem számítható**. További bontás csak más forrásból — szerződések vagy klubtól kapott adat — lenne elérhető.
+
+Egy összevethető adat ettől függetlenül keletkezett: **a társaságnak mindhárom évben nulla export árbevétele van**, míg az FTC-nél van export szponzoráció és export tv-közvetítési jogdíj. A Puskás Akadémiának tehát nincs nemzetközi kereskedelmi bevétele.
+
+Ezt azért közöljük külön pontban, és nem az eredeti szöveg átírásával, mert **a megállapítás megváltozott, és a változás követhetősége maga is része az átláthatóságnak.**
