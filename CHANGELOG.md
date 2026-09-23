@@ -6,6 +6,20 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-09-23 – Forrásintegritás, MTK bevételi feltárás és forrásjegyzék
+
+- Új [kutatási helyzetjelentés](KUTATASI_STATUSZ_2026-09-23.md): a 23 elsődleges forrás SHA-256 lenyomata újraellenőrizve (23/23 egyezik), és a 22 Internet Archive-mentés bájtra azonos a lenyomatokkal.
+- Az MTK egyéb bevételének felosztása: 2023-ra és 2024-re a maradék nullára zárt; 2022-re 3 237 E Ft marad, mert a forrás maga nem bontja fel.
+- A támogatási átvezetés pontosodott: a 2023-as 73 137 E Ft-os kapott–felhasznált különbözetet teljes egészében a TAO-jogcím viszi.
+- Három forráseltérés rögzítve, kifejezetten nem számviteli szabálytalanságra vonatkozó megállapításként.
+- Új [elsődleges forrásjegyzék](FORRASJEGYZEK.md): 23 dokumentum közzétételi hellyel, keltezéssel, letöltési dátummal és teljes SHA-256 lenyomattal, valamint az ellenőrzés reprodukálható menetével.
+- Két módszertani rögzítés: az eszközeladás a mérési protokoll szerint nem része a teljes működési bevételnek (O); a pénzügyi értékek a renderelt PDF-oldalról visszaolvasva kerültek be, optikai karakterfelismerésből szám nem került átvételre.
+- A [szeptember 22-i helyzetjelentés](KUTATASI_STATUSZ.md) változatlanul megmarad a stabil hivatkozás miatt, és előre-hivatkozást kapott az újabb lapra.
+- Az [állítás–forrás mátrix](ALLITAS_FORRAS_MATRIX.md) hat új, forrásalapú sorral bővült (0.4).
+- A [felhasználási és módszertani nyilatkozat](FELHASZNALASI_ES_MODSZERTANI_NYILATKOZAT.md) AI-szakasza pontosítva: az adatátvétel is AI-val támogatott, nem csak az előkészítés és szerkesztés.
+
+A számtani felosztás lezárása **nem** önfenntarthatósági eredmény: a gyűjtősorok gazdasági tartalma, a finanszírozó eredete és az egységes működési bevételi nevező továbbra is nyitott. A nyers kutatási adatok emberi és független szakmai felülvizsgálata nem történt meg, és a részletes táblák a belső munkaváltozatban maradnak. A programkiadás továbbra is 0.9.2-j1.
+
 ### 2026-09-22 – Nyilvános kutatási helyzetjelentés
 
 - Új [kutatási státusz](KUTATASI_STATUSZ.md) az FTC, a Puskás Akadémia és az MTK 2022–2024-es előzetes pénzügyi feldolgozásáról.

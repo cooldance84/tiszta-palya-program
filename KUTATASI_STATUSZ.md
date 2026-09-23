@@ -4,6 +4,8 @@
 **Státusz:** előzetes kutatási tájékoztató; független szakmai felülvizsgálat előtt.  
 **Kapcsolódó programkiadás:** 0.9.2-j1. A 0.9.3-as esettanulmány előkészítése folyamatban van.
 
+> **Ez a lap nem a legfrissebb kutatási állapot.** Folytatása: [2026. szeptember 23. – forrásintegritás és az MTK bevételi feltárása](KUTATASI_STATUSZ_2026-09-23.md). Az alábbi célok, összehasonlíthatósági korlátok és elsődleges források változatlanul érvényesek; a lapot a stabil hivatkozás miatt nem írtuk át.
+
 ## Cél
 
 A kutatás azt vizsgálja, milyen feltételekkel válhat a magyar professzionális klubfutball átláthatóbbá, fenntarthatóbbá és a mindenkori politikai háttértől kevésbé függővé. A cél egy fokozatos átmenet vizsgálata, amely a klubok működését és az utánpótlásban részt vevő gyerekek lehetőségeit is figyelembe veszi.

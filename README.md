@@ -25,7 +25,9 @@ A 0.9.2-j1 a korábbi konzultációs anyag javítása. A 0.9.3-as esettanulmány
 
 ## Bizonyítottsági státusz
 
-A konzultációs kiadás pénzügyi számpéldájának értékei modellfeltételezések, nem auditált klubadatok és nem előrejelzések. A külön kutatási helyzetjelentés a nyilvános klubbeszámolók előzetes feldolgozásáról számol be, saját ellenőrzési státusszal. A négy pillér együttes hatása és az önálló gazdálkodásra való átállás megvalósíthatósága még nincs igazolva. A módszertani pontosítás nem külső szakmai jóváhagyás.
+A konzultációs kiadás pénzügyi számpéldájának értékei modellfeltételezések, nem auditált klubadatok és nem előrejelzések. A külön kutatási helyzetjelentések a nyilvános klubbeszámolók előzetes feldolgozásáról számolnak be, saját ellenőrzési státusszal; a felhasznált források lenyomatát a [forrásjegyzék](FORRASJEGYZEK.md) közli, hogy a forrás azonossága külső ellenőrzéssel is visszakövethető legyen.
+
+A forrás azonosságának igazolása **nem** az adatátvétel vagy a modell igazolása. A kutatási rekordok emberi és független szakmai felülvizsgálata még nem történt meg. A négy pillér együttes hatása és az önálló gazdálkodásra való átállás megvalósíthatósága nincs igazolva. A módszertani pontosítás nem külső szakmai jóváhagyás.
 
 ## Kutatási helyzetjelentések
 
