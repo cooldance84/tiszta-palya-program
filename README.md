@@ -27,13 +27,18 @@ A 0.9.2-j1 a korábbi konzultációs anyag javítása. A 0.9.3-as esettanulmány
 
 A konzultációs kiadás pénzügyi számpéldájának értékei modellfeltételezések, nem auditált klubadatok és nem előrejelzések. A külön kutatási helyzetjelentés a nyilvános klubbeszámolók előzetes feldolgozásáról számol be, saját ellenőrzési státusszal. A négy pillér együttes hatása és az önálló gazdálkodásra való átállás megvalósíthatósága még nincs igazolva. A módszertani pontosítás nem külső szakmai jóváhagyás.
 
-## Kutatási helyzet – 2026. szeptember 22.
+## Kutatási helyzetjelentések
+
+- **[2026. szeptember 23. – forrásintegritás és az MTK bevételi feltárása](KUTATASI_STATUSZ_2026-09-23.md)**
+- [2026. szeptember 22. – háromklubos előzetes feltárás](KUTATASI_STATUSZ.md)
 
 Elkészült az FTC, a Puskás Akadémia és az MTK labdarúgó-társaságának 2022–2024-es éves beszámolóira épülő előzetes pénzügyi feldolgozás. A szervezeti körök, bevételi besorolások és sportági időszakok eltérései miatt további egyeztetés szükséges. Az adatátvétel AI-val támogatott; független szakmai felülvizsgálata még hátravan.
 
-- [Kutatási helyzetjelentés: eredmények, korlátok, elsődleges források és következő lépések](KUTATASI_STATUSZ.md)
+A kutatás 23 nyilvános dokumentumból dolgozik. Mindegyikhez közöljük a közzétételi helyet, a letöltés napját és a SHA-256 lenyomatot, hogy a forrás azonossága **külső ellenőrzéssel is visszakövethető** legyen.
 
-Ez kutatási státuszfrissítés; az aktuális konzultációs kiadás továbbra is **0.9.2-j1**.
+- [Elsődleges forrásjegyzék és forrásintegritás](FORRASJEGYZEK.md)
+
+Ezek kutatási státuszfrissítések; az aktuális konzultációs kiadás továbbra is **0.9.2-j1**.
 
 ## Átláthatóság és további munka
 
