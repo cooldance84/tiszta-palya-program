@@ -29,9 +29,17 @@ A konzultációs kiadás pénzügyi számpéldájának értékei modellfeltétel
 
 A forrás azonosságának igazolása **nem** az adatátvétel vagy a modell igazolása. A kutatási rekordok emberi és független szakmai felülvizsgálata még nem történt meg. A négy pillér együttes hatása és az önálló gazdálkodásra való átállás megvalósíthatósága nincs igazolva. A módszertani pontosítás nem külső szakmai jóváhagyás.
 
+## Nyilvános, de nem mérhető
+
+A magyar klubfutball pénzügyi adatai nyilvánosak, és a klubok többsége önként ezen felül is közzéteszi őket. Összehasonlítani mégsem lehet őket — nem titkosság miatt, hanem mert **nincs közös közzétételi szabvány**.
+
+- **[Nyilvános, de nem mérhető: mit lehet a magyar klubok éves beszámolóiból kiszámítani?](NYILVANOS_DE_NEM_MERHETO.md)**
+
+A lap négy klub beszámolójának feldolgozására és tizenkét NB I-es klub közzétételi felmérésére épül. Klubonkénti pénzügyi számadatot nem közöl: a kutatás nyers rekordjainak emberi és független szakmai felülvizsgálata még nem történt meg.
+
 ## Kutatási helyzetjelentések
 
-- **[2026. szeptember 23. – forrásintegritás és az MTK bevételi feltárása](KUTATASI_STATUSZ_2026-09-23.md)**
+- **[2026. szeptember 23. – forrásintegritás és az MTK bevételi feltárása](KUTATASI_STATUSZ_2026-09-23.md)** (szeptember 29-én két kiegészítő ponttal)
 - [2026. szeptember 22. – háromklubos előzetes feltárás](KUTATASI_STATUSZ.md)
 
 Elkészült az FTC, a Puskás Akadémia és az MTK labdarúgó-társaságának 2022–2024-es éves beszámolóira épülő előzetes pénzügyi feldolgozás. A szervezeti körök, bevételi besorolások és sportági időszakok eltérései miatt további egyeztetés szükséges. Az adatátvétel AI-val támogatott; független szakmai felülvizsgálata még hátravan.
@@ -45,6 +53,9 @@ Ezek kutatási státuszfrissítések; az aktuális konzultációs kiadás továb
 ## Átláthatóság és további munka
 
 - [Állítás-forrás mátrix](ALLITAS_FORRAS_MATRIX.md)
+- [Elsődleges forrásjegyzék és forrásintegritás](FORRASJEGYZEK.md)
+- [A kutatás adatmodellje](ADATMODELL.md) – mezők, státuszok és adatminőségi szabályok
+- Mutatónyilvántartás gépi olvasható formában: [mutatok.csv](mutatok.csv), [pillerek.csv](pillerek.csv)
 - [Változásnapló](CHANGELOG.md)
 - [Döntési napló](DONTESI_NAPLO.md)
 - [Felhasználási és módszertani nyilatkozat](FELHASZNALASI_ES_MODSZERTANI_NYILATKOZAT.md)

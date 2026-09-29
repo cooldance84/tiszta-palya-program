@@ -6,6 +6,23 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-09-29 – „Nyilvános, de nem mérhető", adatmodell és mutatónyilvántartás
+
+- **Új lap: [Nyilvános, de nem mérhető](NYILVANOS_DE_NEM_MERHETO.md).** Négy klub beszámolójának feldolgozására és tizenkét NB I-es klub közzétételi felmérésére épül. Fő állítása: a magyar klubfutball pénzügyi adatai nyilvánosak, és a klubok többsége önként ezen felül is közzéteszi őket — összehasonlítani mégsem lehet őket, mert **nincs közös közzétételi szabvány**.
+  - A hozzáférés nem korlát: az Elektronikus Beszámoló Portál ingyenesen, regisztráció nélkül közzéteszi mind a tizenkét klub futballtársaságának beszámolóját.
+  - **Tizenkettőből tizenegy klub a saját honlapján is közzétesz** — jobb kép, mint amire a közbeszéd alapján számítani lehetne.
+  - **A közzététel többdimenziós:** négy klub, négy különböző minta. A klubokat nem lehet egyetlen „átláthatóbb–kevésbé átlátható" tengelyre helyezni.
+  - **Mérhetőségi térkép:** a mérési protokoll tizenöt mutatójából nyilvános beszámolóból egy számítható ki teljesen, három klubfüggően, egy részben, **tíz egyáltalán nem**.
+  - A beszámolási kör (egyedi kontra konszolidált) az összehasonlíthatóság külön, a bontás mélységétől független sérülési pontja.
+  - Közölt módszertani tanulság: a keresőmotoros közzétételi felmérés **hatból ötször alulmért**, mert több klub a TAO-oldalán tesz közzé.
+  - Következtetés: **nem több adatra van szükség, hanem közös közzétételi sablonra**, ami klublicenc-eszközökkel előírható.
+- **Új lap: [A kutatás adatmodellje](ADATMODELL.md)** – mezők, státuszok és adatminőségi szabályok. A hiányzó adat, a nulla és a nem alkalmazható érték három külön státusz; a forrás kötőjele nem automatikus nulla; az AI-forrásegyeztetés nem emberi felülvizsgálat.
+- **Új: a mutatónyilvántartás gépi olvasható formában** – [mutatok.csv](mutatok.csv) és [pillerek.csv](pillerek.csv).
+- A [szeptember 23-i helyzetjelentés](KUTATASI_STATUSZ_2026-09-23.md) **új 9. ponttal** bővült: az FTC játékosjog-sora sem választható szét. A sor megnevezése összevont, és a melléklet két lábjegyzete bruttó/nettó szempontból ellentmond egymásnak, ezért a protokoll három transzfermutatója közül erre a klubra egyik sem számítható. A 7. pont eredeti szövege változatlan, csak utalást kapott.
+- `.gitignore`: `__pycache__/` és `*.pyc` hozzáadva (a repóban futtatható kiadás-előállító script van).
+
+**Klubonkénti pénzügyi számadatot egyik új lap sem közöl.** A kutatás nyers pénzügyi rekordjainak emberi és független szakmai felülvizsgálata nem történt meg; ezért a szerkezet, a közzétételi gyakorlat és a mérhetőség szerepel, a klubszámok nem. A programkiadás továbbra is 0.9.2-j1.
+
 ### 2026-09-23 – Kiegészítés: a Puskás Akadémia bevételi bontása nyilvános forrásból nem érhető el
 
 - A [szeptember 23-i helyzetjelentés](KUTATASI_STATUSZ_2026-09-23.md) új 8. pontja: a társaság 2022–2024-es három beszámolócsomagjának teljes átnézése (65 oldal) után a bevételi jogcímbontás **nem feltárási hiány, hanem a nyilvános közzététel felső határa**.

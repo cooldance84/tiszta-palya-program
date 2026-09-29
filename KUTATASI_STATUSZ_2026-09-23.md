@@ -71,7 +71,7 @@ Az adatátvételt AI támogatta, és az ellenőrzési státusz ezt tükrözi: a 
 
 ## 7. A következő munkaszakasz
 
-1. **FTC:** a játékosjog-értékesítés és -kölcsönadás, valamint a stadion- és marketingbevételek különválasztása, amennyire a dokumentumok engedik. Ez lett a legfontosabb nyitott bevételi feladat (lásd a 8. pontot).
+1. **FTC:** a játékosjog-értékesítés és -kölcsönadás, valamint a stadion- és marketingbevételek különválasztása, amennyire a dokumentumok engedik. Ez lett a legfontosabb nyitott bevételi feladat (lásd a 8. pontot). **Kiegészítés: a szétválasztás nem lehetséges — lásd a 9. pontot.**
 2. **MTK:** a „ki nem emelt" gyűjtősorok tartalmának tisztázása és a támogatási átvezetés lezárása.
 3. **Puskás Akadémia:** a Kft. és az utánpótlás-alapítvány közötti ügyletek egyeztetése. A **bevételi jogcímbontás** viszont ebből a forráskörből nem érhető el — lásd a 8. pontot.
 4. **A működési bevételi nevező (O) egységes definíciójának** szakmai véglegesítése; ezt követően számítható a saját bevételi arány, a bevételi diverzifikáció és a szponzori koncentráció.
@@ -93,3 +93,21 @@ A társaság 2022–2024-es három beszámolócsomagját teljes egészében átn
 Egy összevethető adat ettől függetlenül keletkezett: **a társaságnak mindhárom évben nulla export árbevétele van**, míg az FTC-nél van export szponzoráció és export tv-közvetítési jogdíj. A Puskás Akadémiának tehát nincs nemzetközi kereskedelmi bevétele.
 
 Ezt azért közöljük külön pontban, és nem az eredeti szöveg átírásával, mert **a megállapítás megváltozott, és a változás követhetősége maga is része az átláthatóságnak.**
+
+## 9. Kiegészítés, 2026. szeptember 29.: az FTC játékosjog-sora sem választható szét
+
+A lap 7. pontja az FTC összevont bevételi sorainak szétválasztását nevezte meg a legfontosabb nyitott bevételi feladatnak. **Ezt megvizsgáltuk, és a megállapítás pontosítandó: a szétválasztás nem feldolgozási kérdés, hanem a közzététel határa — ugyanúgy, mint a Puskás Akadémiánál.**
+
+**A sor megnevezése maga összevont:** „Játék- és egyéb munkavállalói jog *értékesítése, kölcsönadása*". A forrás **földrajzilag** bont (belföld és export), tranzakciótípus szerint nem.
+
+**A melléklet megadja ennek a számviteli okát.** Közli, hogy a társaság a vásárolt játékjogait befektetett eszközként tartja nyilván, és hogy egy adóhatósági ellenőrzés lezáró jegyzőkönyvében tett megállapítás alapján ezek a tételek az értékesítés nettó árbevétele között kerülnek kimutatásra — nem az egyéb bevételek között, ahogy a számviteli törvény általános szabálya alapján várható lenne.
+
+**Egy pontot azonban a forrás sem dönt el.** A melléklet egyik lábjegyzete a befektetett eszköz értékesítésének *eredményéről* (vagyis nettó összegről), egy másik a játékjog átadásából eredő *bevételekről* (vagyis bruttó ellenértékről) beszél. **A sor bruttó vagy nettó jellege ezért a forrásból nem állapítható meg**, és a kivezetéskori könyv szerinti érték sem olvasható ki belőle.
+
+**Következmény a mérésre:** a [mérési protokoll](METODIKA_ES_MUTATOK.md) 4. része három transzfermutatót határoz meg — eladási eredmény, időszaki transzfereredmény és transzfer-pénzáramlás —, és mindhárom megköveteli az ellenérték, a közvetlen díjak és a kivezetéskori könyv szerinti érték elkülönítését. **Ezek egyike sem áll rendelkezésre, ezért erre a klubra a három transzfermutató közül egyik sem számítható**, pedig a vizsgált klubok közül ő közöl a legrészletesebben.
+
+**A 7. pont sorrendje ezzel módosul.** A bevételi oldalon a nyilvános forrásból elérhető feltárás lényegében kimerült: az egyik klubnál nincs bontás, a másiknál a bontás megvan, de egy összevont soron és egy eldönthetetlen bruttó/nettó kérdésen elakad. A további előrelépés nem több munkát, hanem **más adatkört** igényel — szerződéses vagy klubtól kapott adatot.
+
+A négyklubos közzétételi összevetést és a mutatónkénti mérhetőségi térképet a [„Nyilvános, de nem mérhető"](NYILVANOS_DE_NEM_MERHETO.md) lap tartalmazza.
+
+Ez a megállapítás a közzététel **formájáról** szól, nem a klub gazdálkodásáról, és nem szabálytalanságra vonatkozik.

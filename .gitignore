@@ -5,6 +5,10 @@ rendered/
 *.bak
 ~$*
 
+# Python (a repóban futtatható kiadás-előállító script van)
+__pycache__/
+*.pyc
+
 # Operációs rendszer és szerkesztő
 .DS_Store
 Thumbs.db

@@ -1,5 +1,24 @@
 # Döntési napló
 
+## 2026-09-29 – Mi kerül nyilvánosságra a klubfeldolgozásból?
+
+**Döntés: a közzétételi gyakorlatról szóló megállapítások nyilvánosak, a klubonkénti pénzügyi számadatok nem.**
+
+A négy klub beszámolójának feldolgozása kétféle megállapítást termelt. Az egyik arról szól, **mit tesz közzé egy klub és mit nem** — ez a közzétételi gyakorlat ténye, amit bárki ellenőrizhet a nyilvános dokumentumból. A másik arról, **mekkora egy klub bevétele vagy annak összetétele** — ez állítás a klub gazdálkodásáról.
+
+A kettőt külön kezeljük:
+
+- **Nyilvános:** a közzététel helye, terjedelme és szerkezete; a mutatónkénti mérhetőség; a beszámolási kör kérdése; a módszertani tanulságok. Ezek nem a klubok gazdálkodásáról szólnak, és nem igénylik a nyers rekordok felülvizsgálatát.
+- **Nem nyilvános egyelőre:** minden klubonkénti pénzügyi számadat, akkor is, ha auditált, közzétett dokumentumból származik és számtanilag ellenőrzött. A kutatás nyers rekordjainak **emberi és független szakmai felülvizsgálata nem történt meg**, és ez a projekt saját közlési kapuja.
+
+**Indoklás.** A most közzétett lap érvelése nem szorul a számokra: a „nyilvános, de nem mérhető" állítás önmagában megáll. A számok ugyanakkor a legkönnyebben félreidézhető részek — egy tulajdonosi finanszírozási adat például félreérthető szabálytalanságként, holott épp az ellenkezője: a tételes közzététel dicséretes gyakorlat. A számok így **felülvizsgálat utáni második közlést** adnak, nem hígítják az elsőt.
+
+**Ez szigorítás, nem visszamenőleges szabály.** A [szeptember 23-i helyzetjelentés](KUTATASI_STATUSZ_2026-09-23.md) tartalmaz klubonkénti számadatokat — az MTK egyéb bevételének felosztását és a támogatási átvezetést —, amelyek akkori döntéssel kerültek nyilvánosságra. Ezeket nem vonjuk vissza: a már közölt állítás visszakövethetősége maga is átláthatósági érték, és a hozzájuk tartozó forrásjegyzék változatlanul ellenőrizhető. A mostani döntés a **további** klubfeldolgozásra vonatkozik, és azt rögzíti, hogy innentől a felülvizsgálat a közlés előfeltétele, nem utólagos lépés.
+
+**Klubnevet közlünk.** A klubnév nem pénzügyi adat, és a közzététel formájáról tett megállapítás nem szabálytalansági megállapítás. A névtelenítés egy átláthatóságról szóló lapon indokolatlan lenne, különösen mert a négyklubos összevetés eleve megnevezi a vizsgált társaságokat.
+
+**Amit kifejezetten nem állítunk:** hogy egy klub jobb vagy rosszabb a másiknál; hogy a nem közlés jogsértés; hogy a közölt adat helyes. A közzététel mértékét a számviteli törvény szabja meg, nem ez a kutatás.
+
 ## 2026-09-22 - Pénzügyi és módszertani javítókiadás
 
 A kiadás jelölése **0.9.2-j1**, a 0.9.3-as esettanulmánytól elkülönítve. A régi kiadási fájlok megmaradnak történeti változatként; az aktuális hivatkozások az új fájlokra vezetnek.
