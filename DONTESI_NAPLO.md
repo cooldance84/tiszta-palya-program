@@ -1,5 +1,21 @@
 # Döntési napló
 
+## 2026-09-30 – Helyreigazítás a helyén, nem hozzáfűzéssel
+
+**Döntés: a két téves állítást a saját helyükön javítjuk, az eredeti megfogalmazást pedig szó szerint megőrizzük.**
+
+Eddigi gyakorlatunk az volt, hogy a változást **új, számozott pontban** közöljük, az eredeti szöveg érintetlenül hagyásával — így tettünk szeptember 23-án a 8. és a 9. ponttal. Ott azonban kiegészítésről volt szó: az eredeti állítás igaz maradt.
+
+Most nem ez a helyzet. Két állítás **téves**, és mindkettő a lap „Az állítás egy mondatban" szakaszában áll. Aki csak azt olvassa el — és a legtöbben azt olvassák el —, téves információval távozna, akármit írunk a lap aljára. A puszta hozzáfűzés itt a követhetőséget védené a pontosság kárára.
+
+**A megoldás kettős:** a téves mondatokat javítjuk a helyükön, dátumozott jelöléssel, **és** az eredeti megfogalmazást szó szerint idézzük az új 9. pontban és a változásnaplóban. Így téves mondat nem marad állva, a követhetőség pedig nem sérül.
+
+**Amit nem vontunk vissza.** A 8. pont 1. alpontja azt javasolta, hogy a közös sablont klublicenc-eszközökkel írják elő. Ez **igaznak bizonyult** — csak nem tudtuk, hogy már elő is van írva. Az ilyet élesíteni kell, nem visszavonni.
+
+**Amit nem közlünk.** Van egy belső táblánk, amely soronként összeveti a szabályzat előírásait azzal, amit a négy klub közzétett beszámolójában megtaláltunk. Ez nem kerül nyilvánosságra. Amíg nem volt ismert kötelező minimum, a négyklubos összevetés ártalmatlan volt; most ugyanaz a tábla megnevezett gazdasági társaságokról szóló, **félreérthető megfelelési állításnak** olvasódna — holott a kötelezettség a licencadónak benyújtott beszámolóval is teljesíthető. A [2026-09-29-i döntés](#2026-09-29--mi-kerül-nyilvánosságra-a-klubfeldolgozásból) a klubonkénti pénzügyi számadatokra vonatkozott; ez a megfontolás azon túlmutat, és a megfelelési jellegű állításokra is kiterjed.
+
+**A forrás ellenőrzöttsége.** A megállapítás a **hatályos** kiadáson áll, és a megelőző kiadáson is igazoltuk. Két lehetséges kibúvót külön ellenőriztünk: a közlési követelmények enyhítéséről szóló melléklet nem szűkít, az iratbetekintési út pedig üzleti titok címén elzárt. Ezek nélkül nem publikáltunk volna.
+
 ## 2026-09-29 – Mi kerül nyilvánosságra a klubfeldolgozásból?
 
 **Döntés: a közzétételi gyakorlatról szóló megállapítások nyilvánosak, a klubonkénti pénzügyi számadatok nem.**

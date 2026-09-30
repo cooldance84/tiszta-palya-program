@@ -6,7 +6,30 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-09-30 – Helyreigazítás: a közzétételi szabvány létezik
+
+**Két, szeptember 29-én közölt állításunk téves volt. Mindkettőt javítottuk.**
+
+Az [MLSZ Klublicenc Szabályzat](https://dokumentumtar.mlsz.hu/doc/szabalyzatok/klublicenc-szabalyzat) átnézése után:
+
+- **Eredeti megfogalmazás:** „a klubok többsége **önként** ezen felül is közzéteszi őket", illetve „A klub saját honlapján való közzététel ezen felüli, **önkéntes** gyakorlat".
+  **Javítva:** nem önkéntes. A szabályzat `F.01 (1) b)` pontja licencfeltételként írja elő, hogy a licenckérelmező a közzétett, könyvvizsgált éves beszámolóját a hivatalos weboldalán megjelenítse.
+- **Eredeti megfogalmazás:** „**nincs közös közzétételi szabvány**".
+  **Javítva:** közös *adatszolgáltatási* szabvány van — a szabályzat 2. számú melléklete („Minimális közlési követelmények") —, kötelező és könyvvizsgált. Ami hiányzik, az a *közzétételi* kötelezettség erre a tartalomra. A különbség nem árnyalat: nem megalkotni kell a szabványt, hanem kiterjeszteni.
+
+**Új [9. pont](NYILVANOS_DE_NEM_MERHETO.md)** a részletes indoklással: mit ír elő a 2. számú melléklet, miért nem látjuk mégis, és miért nem kerülőút az iratbetekintés (a vonatkozó szabályzat az üzleti titkot érintő betekintést megtagadhatóvá teszi).
+
+**A 8. pont 1. alpontja élesítve, nem visszavonva.** Eredetileg azt javasolta, hogy a közös sablont klublicenc-eszközökkel írják elő — ez igaznak bizonyult, csak kiderült, hogy már elő van írva. A javaslat ezért szűkebb lett: a 2. számú melléklet tartalma kerüljön ugyanabba a közzétételi körbe, ahol a törvényes beszámoló már ma is van.
+
+**Miért írtuk át a szöveget a helyén, és nem csak hozzáfűzéssel?** Eddigi gyakorlatunk a kiegészítés volt, mert ott az eredeti állítás igaz maradt. Most két állítás téves, és mindkettő a lap legelején áll. Aki csak a nyitó szakaszt olvassa el, téves információval távozna. Az eredeti megfogalmazásokat ezért itt és a 9. pontban szó szerint megőriztük.
+
+**Klubonkénti összevetést nem közlünk arról, melyik előírt sor melyik klub beszámolójából hiányzik**, és számadatot sem. Kötelező minimum ismeretében az ilyen tábla megfelelési állításnak olvasódna — holott a kötelezettség a licencadónak benyújtott beszámolóval is teljesíthető.
+
+A megállapítások a **hatályos** kiadáson állnak (ELN-114/2025, hatályos 2026.02.01-től); a két hivatkozott hely a megelőző kiadásban szó szerint azonos. A programkiadás továbbra is 0.9.2-j1.
+
 ### 2026-09-29 – „Nyilvános, de nem mérhető", adatmodell és mutatónyilvántartás
+
+> **Az alábbi bejegyzés két állítását a 2026-09-30-i helyreigazítás javította** (lásd fentebb). A bejegyzés szövegét a követhetőség miatt változatlanul hagyjuk.
 
 - **Új lap: [Nyilvános, de nem mérhető](NYILVANOS_DE_NEM_MERHETO.md).** Négy klub beszámolójának feldolgozására és tizenkét NB I-es klub közzétételi felmérésére épül. Fő állítása: a magyar klubfutball pénzügyi adatai nyilvánosak, és a klubok többsége önként ezen felül is közzéteszi őket — összehasonlítani mégsem lehet őket, mert **nincs közös közzétételi szabvány**.
   - A hozzáférés nem korlát: az Elektronikus Beszámoló Portál ingyenesen, regisztráció nélkül közzéteszi mind a tizenkét klub futballtársaságának beszámolóját.

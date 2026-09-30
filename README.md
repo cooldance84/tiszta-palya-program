@@ -31,7 +31,7 @@ A forrás azonosságának igazolása **nem** az adatátvétel vagy a modell igaz
 
 ## Nyilvános, de nem mérhető
 
-A magyar klubfutball pénzügyi adatai nyilvánosak, és a klubok többsége önként ezen felül is közzéteszi őket. Összehasonlítani mégsem lehet őket — nem titkosság miatt, hanem mert **nincs közös közzétételi szabvány**.
+A magyar klubfutball pénzügyi adatai nyilvánosak, és a klubok a saját honlapjukon is közzéteszik őket — ezt a klublicenc előírja. Összehasonlítani mégsem lehet őket, és nem is titkosság miatt: **közös adatszolgáltatási szabvány ugyanis létezik, kötelező és könyvvizsgált — csak nem a nyilvánosságnak szól.**
 
 - **[Nyilvános, de nem mérhető: mit lehet a magyar klubok éves beszámolóiból kiszámítani?](NYILVANOS_DE_NEM_MERHETO.md)**
 

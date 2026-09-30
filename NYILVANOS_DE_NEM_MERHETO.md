@@ -8,7 +8,9 @@
 
 ## Az állítás egy mondatban
 
-**A magyar klubfutball pénzügyi adatai nyilvánosak, és a klubok többsége önként ezen felül is közzéteszi őket. Összehasonlítani mégsem lehet őket — nem titkosság miatt, hanem mert nincs közös közzétételi szabvány.**
+**A magyar klubfutball pénzügyi adatai nyilvánosak, és a klubok a saját honlapjukon is közzéteszik őket — ezt a klublicenc előírja. Összehasonlítani mégsem lehet őket, és nem is titkosság miatt: közös adatszolgáltatási szabvány ugyanis létezik, kötelező és könyvvizsgált — csak nem a nyilvánosságnak szól.**
+
+*(Javítva 2026. szeptember 30-án. Az eredeti megfogalmazás két ponton téves volt; a részletek a lap 9. pontjában.)*
 
 Ez a lap azt mutatja meg, hol pontosan van a határ, és mit lehetne tenni vele.
 
@@ -16,7 +18,7 @@ Ez a lap azt mutatja meg, hol pontosan van a határ, és mit lehetne tenni vele.
 
 **Állítja:** hol érhető el a klubok pénzügyi beszámolója, mit tartalmaz és mit nem, és ebből a [mérési protokoll](METODIKA_ES_MUTATOK.md) mely mutatói számíthatók ki.
 
-**Nem állítja**, hogy egy klub jobb vagy rosszabb a másiknál, és **nem minősíti a klubokat**. A közzététel mértékét a számviteli törvény szabja meg; az itt leírt hiányok **nem jogsértések**, és a jogszabályon felüli önkéntes közzététel dicséretes gyakorlat.
+**Nem állítja**, hogy egy klub jobb vagy rosszabb a másiknál, és **nem minősíti a klubokat**. A közzététel mértékét a számviteli törvény szabja meg; az itt leírt hiányok **nem jogsértések**. Ez a 9. pont ismeretében külön hangsúlyos: attól, hogy egy kötelező bontás a közzétett beszámolóból hiányzik, a klub **megfelelhet** a kötelezettségének — mert azt egy másik, a licencadónak benyújtott beszámolóval is teljesítheti.
 
 Ez a lap **nem közöl klubonkénti pénzügyi számadatokat.** A kutatás nyers pénzügyi rekordjainak emberi és független szakmai felülvizsgálata nem történt meg, ezért számszerű klubadatot nem közlünk. Itt kizárólag a **közzétételi gyakorlatról** teszünk megállapításokat.
 
@@ -28,9 +30,9 @@ Az Igazságügyi Minisztérium **Elektronikus Beszámoló Portálja** minden mag
 
 Ezt azért érdemes kimondani, mert a magyar klubfutball átláthatóságáról szóló vitában visszatérő állítás, hogy „az adatok nem nyilvánosak". Ebben a formában ez nem áll meg. Bárki ellenőrizheti néhány perc alatt.
 
-## 2. A klubok többsége önként is közzétesz
+## 2. A klubok a saját honlapjukon is közzétesznek – ezt a licenc előírja
 
-A jogszabályi kötelezettség a portálra való benyújtás. A klub saját honlapján való közzététel ezen felüli, önkéntes gyakorlat — és **tizenkettőből tizenegy klub megteszi.**
+A jogszabályi kötelezettség a portálra való benyújtás. A saját honlapon való közzététel ezen felüli — de **nem önkéntes**: a Klublicenc Szabályzat `F.01 (1) b)` pontja előírja, hogy a licenckérelmezőnek a közzétett, könyvvizsgált éves beszámolóját a hivatalos weboldalán meg kell jelenítenie. **Tizenkettőből tizenegy klubnál találtuk meg.**
 
 | Közzéteszi a saját honlapján | Nem találtunk éves beszámolót |
 |---|---|
@@ -38,7 +40,7 @@ A jogszabályi kötelezettség a portálra való benyújtás. A klub saját honl
 
 A terjedelem eltér: van klub, amelyik nyolc évre visszamenőleg közli a teljes hármast (beszámoló, kiegészítő melléklet, könyvvizsgálói jelentés), és van, amelyik egyetlen évet vagy csak az eredménykimutatást. Több klub nem külön „gazdálkodás" oldalon, hanem a **TAO-oldalán** teszi közzé.
 
-Ez **jobb kép, mint amire a közbeszéd alapján számítani lehetne.**
+A kép tehát nem a klubok nyitottságáról szól, hanem egy licencfeltétel teljesüléséről. **A tizenkettedik klubról ebből nem következik szabálytalanság:** nem ismerjük a licenctípusát, és a felmérésünk egyszer már alulmért. Ez nyitott kérdés, nem megállapítás.
 
 ## 3. A közzététel viszont többdimenziós – és ez a kulcs
 
@@ -53,7 +55,7 @@ Négy klub anyagát dolgoztuk fel részletesen. **Mind a négy más dimenzióban
 
 **Ebből az következik, hogy a klubokat nem lehet egyetlen „átláthatóbb–kevésbé átlátható" tengelyre helyezni.** Egy klub lehet nyitott a tulajdonosi finanszírozásról és zárt a bevételi szerkezetről, vagy fordítva. A Debreceni VSC például a bevételét csak főösszegben közli, viszont a többségi tulajdonossal folytatott pénzeszköz-átadásokat **tételesen, dátummal** teszi közzé — ilyen táblát a másik három klub egyike sem közöl.
 
-Nincs tehát átláthatósági rangsor. Van négy különböző, önként választott közzétételi gyakorlat.
+Nincs tehát átláthatósági rangsor. Van négy különböző közzétételi gyakorlat — és a 9. pont fényében ezek nem feltétlenül eltérő nyitottságot jelentenek, hanem ugyanannak a kötelezettségnek négyféle, egyaránt megengedett teljesítését.
 
 ## 4. Mit lehet ebből kiszámítani?
 
@@ -114,9 +116,78 @@ Az ok is látszik: több klub a beszámolót a **TAO-oldalán** teszi közzé, a
 
 **A korlát nem a titkosság, hanem a szabvány hiánya.** A klubok jogszerűen járnak el, sőt többségük a kötelezőn felül is közzétesz — csak mindenki mást. Ezért:
 
-1. **Nem több adatra van szükség, hanem közös közzétételi sablonra.** Ha a klubok ugyanazt a néhány bontást közölnék — bevétel jogcím szerint, támogatás kapott/felhasznált/maradvány szerint, kapcsolt ügylet külön, azonos beszámolási körben —, a jelenlegi mennyiségű adat is összehasonlíthatóvá válna. Ez klublicenc-eszközökkel előírható.
+1. **Nem több adatra van szükség, hanem közzétételi kötelezettségre a már meglévő bontásra.** Ez a pont eredetileg azt javasolta, hogy a közös sablont klublicenc-eszközökkel írják elő. **A sablon azóta megkerült: már elő van írva** — lásd a 9. pontot. A javaslat ezért nem új szabvány megalkotása, hanem egy meglévő kötelezettség hatókörének kiterjesztése.
 2. **A négy pillér egyike sem validálható kizárólag nyilvános adatból.** Országos rangsor vagy pillérek közti súlyozás ebből nem építhető, és nem is fogunk ilyet készíteni.
 3. **Egy önkéntes klubpilot első és legolcsóbb hozadéka az adathozzáférés, nem a beavatkozás.** A fent „nem"-mel jelölt tíz mutató nagy része egyetlen együttműködő klubbal mérhetővé válik.
+
+## 9. A közzétételi szabvány létezik – csak nem nyilvános
+
+**Kiegészítés és részleges helyreigazítás, 2026. szeptember 30.**
+
+Ez a lap eredetileg azt állította, hogy a klubok összehasonlíthatatlansága abból ered, hogy **nincs közös közzétételi szabvány**, és hogy a saját honlapon való közzététel **önkéntes** gyakorlat. Az [MLSZ Klublicenc Szabályzat](https://dokumentumtar.mlsz.hu/doc/szabalyzatok/klublicenc-szabalyzat) átnézése után mindkét állítást javítanunk kell.
+
+### Van közös szabvány, és kötelező
+
+A Klublicenc Szabályzat **2. számú melléklete** („Minimális közlési követelmények") sortételesen meghatározza, milyen bontásban kell a klubnak a pénzügyi adatait előállítania. Hatálya az NB I-es licenckérelmezőkre és licencesekre terjed ki.
+
+Az eredménykimutatásra előírt bevételi sorok között szerepel — egyebek mellett — a **jegybevétel**, a **szponzori és hirdetési bevétel**, a **közvetítési jog**, az **UEFA-szolidaritás és pénzdíj**, a **játékosértékesítésből származó bevétel** (külön aszerint, hogy a játékjogot korábban aktiválták-e), valamint a **támogatás forrás szerint bontva**: MLSZ, állam, önkormányzat, harmadik fél és kapcsolt vállalkozás. A melléklet előírja a költségbontást, a játékosátigazolás eredményét és a direkt módszerű cash flow-kimutatást is.
+
+Ez pontosan az a bontás, amelynek hiányát a 4. és 5. pont dokumentálja.
+
+### Akkor miért nem látjuk?
+
+Mert a **közzétételi** és a **bontási** kötelezettség két különböző dokumentumra vonatkozik.
+
+| | Mit tartalmaz? | Hova kerül? |
+|---|---|---|
+| Közzétett éves beszámoló | a számviteli törvény szerinti tartalmat | a beszámolóportálra **és a klub honlapjára** |
+| Kiegészítő pénzügyi információkat tartalmazó éves beszámoló | a 2. számú melléklet **teljes** bontását, könyvvizsgálóval auditálva | **kizárólag a licencadóhoz** |
+
+Ha a közzétett beszámoló nem felel meg a minimális közlési követelményeknek, a klubnak kiegészítő pénzügyi információkat kell benyújtania — **a licencadónak**. A szabályzat emellett kifejezetten megengedi, hogy a klub eldöntse, az előírt információkat az eredménykimutatásban vagy a kiegészítő mellékletben mutatja-e be.
+
+**Ebből két dolog következik.**
+
+Először: a bontás hiánya a közzétett beszámolóból **nem jelenti, hogy a bontás nem létezik.** Létezik, auditált, és évente beérkezik egy szövetségi szervhez.
+
+Másodszor: a klubonként eltérő közzétételi minta — amit a 3. pont négy klubon mutat be — **nem feltétlenül eltérő nyitottságot jelent.** Lehet ugyanannak a kötelezettségnek négyféle, egyaránt szabályos teljesítése.
+
+### Amit ebből kifejezetten nem állítunk
+
+**Nem állítjuk, hogy bármelyik klub szabálytalanul jár el.** Épp ellenkezőleg: a szabályzat szerkezetéből az következik, hogy egy klub akkor is megfelelhet, ha a közzétett beszámolójából hiányzik egy előírt sor. Azt, hogy a kötelezettség ténylegesen teljesül-e, a licencadó vizsgálja — nem ez a kutatás.
+
+**Nem állítjuk**, hogy a nyilvánosságra hozatal elmaradása bárki mulasztása. A szabályzat egyszerűen nem ír elő közzétételt erre a tartalomra.
+
+**Nem közlünk** klubonkénti összevetést arról, melyik előírt sor melyik klub közzétett beszámolójából hiányzik. Számadatot sem közlünk.
+
+### Mit változtat ez a javaslaton?
+
+A 8. pont eredetileg azt javasolta, hogy a közös közzétételi sablont klublicenc-eszközökkel írják elő. **A sablon létezik.** A javaslat ezért lényegesen szűkebb és olcsóbb lett:
+
+> A 2. számú melléklet szerinti tartalom kerüljön ugyanabba a közzétételi körbe, ahol a törvényes beszámoló már ma is van.
+
+Ez nem új adatgyűjtés, nem új teher a kluboknak, és az adat már ma is könyvvizsgált. A mérési protokoll tizenöt mutatójából **hét** olyan, amelynek adata ebből a körből ma is rendelkezésre áll.
+
+### „Akkor miért nem kérik be egyszerűen?"
+
+Kézenfekvő ellenvetés: ha az adat már a szövetségnél van, miért nem elég betekintést kérni? Utánanéztünk.
+
+Az [MLSZ Iratbetekintési Szabályzata](https://dokumentumtar.mlsz.hu/doc/szabalyzatok/iratbetekintesi-szabalyzat) tágan nyit — a szövetség közhasznú működésével kapcsolatosan keletkezett iratokba **bárki betekinthet** a székhelyen, és saját költségére másolatot készíthet. A szabályzat `IV. F.` pontja viszont megtagadhatóvá teszi a betekintést, ha az valamely személy **üzleti titkát** érinti.
+
+Egy klub tételes bevételi és költségbontása jellemzően az adott társaság üzleti titka. **A betekintési jog tehát létezik, de éppen erre az adatra nem visz el.**
+
+Ez nem gyengíti a javaslatot, hanem megerősíti: ha az adat betekintéssel elérhető volna, elég lenne élni egy meglévő joggal. Mivel nem az, a kérdés valóban az marad, hogy a **közzétételi** kötelezettség hatóköre hova terjedjen ki.
+
+*(Két dolgot itt nem állítunk: hogy a licenceljárás iratai egyáltalán a „közhasznú működéssel kapcsolatos" iratkörbe tartoznak — ez jogértelmezés —, és hogy a 2011-es szabályzat jogszabályi hivatkozása ma hova vezet. Mindkettő jogi felülvizsgálat tárgya.)*
+
+Érdemes viszont megjegyezni, hogy az MLSZ **saját** éves beszámolóját és közhasznúsági jelentését a szabályzat `V. C.` pontja szerint bárki megtekintheti, és azt az elfogadástól számított nyolc napon belül a honlapon közzé kell tenni. A szövetség tehát magára nézve vállalja azt a közzétételi normát, amelynek kiterjesztését javasoljuk.
+
+### Melyik kiadáson áll ez
+
+A **hatályos kiadáson**: MLSZ Klublicenc Szabályzat 2026/27, ELN-114/2025 (11.25.), hatályos 2026. február 1-től, 109 oldal. A hivatkozott két hely — a weboldali közzétételi kötelezettség és a 2. számú melléklet bevételi bontása — a megelőző, 2024/25-ös kiadásban **szó szerint azonos**; a megállapítás tehát nem egy kiadás sajátossága.
+
+A szabályzat **6. számú mellékletét** — amely a közlési követelmények enyhítéséről szól — átnéztük: **a fenti megállapítást nem szűkíti.** Kizárólag feljutó klubokra vonatkozik, a 2. számú melléklet közlési követelményeit nem enyhíti, és az első bajnoki év után semmilyen közlési enyhítés nem marad érvényben.
+
+A szabályzatot nem jogi szakértőként olvastuk. A következtetések jogi és licencszakmai felülvizsgálatot igényelnek.
 
 ## Korlátok
 
