@@ -6,6 +6,10 @@
 ## 1. Az összehasonlítás egysége
 
 - Pénzügy: azonosított jogi személy vagy dokumentált, azonos tartalmú konszolidált kör és pontos beszámolási időszak. Az egyesület, az akadémia, a stadionüzemeltető és a profi csapat számai csak tételes egyeztetés és a belső ügyletek kiszűrése után összegezhetők.
+
+> **Utólagos megjegyzés, 2026. október 1.** Ez a kikötés a gyakorlatban súlyosabbnak bizonyult, mint ahogy itt hangzik. A tizenkét NB I-es klub átnézése után kiderült, hogy **egyetlen klubnál sem azonos a feldolgozott jogi személy a klubbal**, és egy klubnál, ahol ez mérhető volt, a futballtársaság a klub bevételének csak a kisebbik felét tette ki.
+>
+> A kutatás az „azonosított jogi személy" ágat választotta — amit ez a protokoll megenged —, **de a választás következményét nem mérte fel**. A fenti mondat tehát nem pusztán óvatossági formula: a mutatók értelmezésének előfeltétele. Részletesen a [„Nyilvános, de nem mérhető" lap 11. pontjában](NYILVANOS_DE_NEM_MERHETO.md).
 - Sport: klub, versenysorozat, csapat és szezon. A 2022/23-as, 2023/24-es és 2024/25-ös szezon nem azonos a 2022-es, 2023-as vagy 2024-es naptári üzleti évvel. Szezonpénzügyet csak havi vagy tranzakciós adatokból képezünk; az éves adatot nem felezzük el automatikusan.
 - Összevetési minta: FTC, Puskás Akadémia és MTK. Ez feltáró mintaválasztás, nem reprezentatív országos minta és nem kontrollcsoport önmagában.
 - Pénzegység: forint, a nyilvános szemléltető táblában millió Ft. Tényadatnál rögzítendő a nominális év, nettó/bruttó ÁFA-kezelés, deviza és az átváltás dátuma/forrása. Reálérték csak külön megadott árindexszel számolható.
@@ -80,7 +84,7 @@ Konzultációs klubképzési feltétel: legalább három teljes szezon vagy 36 i
 
 ## 7. A pilot és a forrásfeltárás külön feladata
 
-**12 hetes, heti egyszeri forrásfeltárás:** munkaszervezési ciklus a három klub három lezárt szezonjának adatjelöltjeihez. Lezáráskor mutatónként és időszakonként forráslefedettség, hiánylista, ellenőrzési státusz és összehasonlíthatósági döntés készül. Az idő letelte nem adatminőségi kritérium. Automatizált találat nem kerülhet ellenőrzött megfigyelésként az adatbázisba.
+**12 hetes, heti egyszeri forrásfeltárás:** munkaszervezési ciklus a vizsgált klubok lezárt szezonjainak adatjelöltjeihez. Lezáráskor mutatónként és időszakonként forráslefedettség, hiánylista, ellenőrzési státusz és összehasonlíthatósági döntés készül. Az idő letelte nem adatminőségi kritérium. Automatizált találat nem kerülhet ellenőrzött megfigyelésként az adatbázisba.
 
 **6-12 hónapos megvalósíthatósági pilot:** az adatgyűjtés működését, terhét, a pénzügyi riportolást, a közösségi részvételi folyamatot és rövid távú kereskedelmi változásokat vizsgálja. A 6-8 játékosból álló célzott csoport folyamatpróba, nem reprezentatív hatásvizsgálat. A beválasztás szabályait és a teljes jogosult kohorsz méretét közölni kell.
 

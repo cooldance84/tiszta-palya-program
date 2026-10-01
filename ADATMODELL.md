@@ -98,7 +98,11 @@ Ha egy forrás URL-je később más tartalmat ad vissza, az **nem** a helyi pél
 - Egy forrássor nevét csak helyesírási/rövidítési szinten írjuk át olvasható formára; gazdasági jelentését nem bővítjük. Számtani vagy besorolási eltérés esetén az éves ER/mérleg főösszege a nyers bázis, az eltérő mellékletérték az alaplap DQ-jegyzékében marad.
 - A `klubok.csv` liga mezője leíró törzsadat, nem szezonos versenyadat. MTK: `NB I / NB II`; a 2022/23-as NB II-es szezon külön elsődleges forrással igazolt.
 
-A belső háromklubos jegyzet rögzíti a használható leíró összevetéseket és a még hiányzó egységesítést. A szezonos KPI-tábla üres marad; nincs rangsor vagy súlyozás.
+A belső jegyzet rögzíti a használható leíró összevetéseket és a még hiányzó egységesítést. A szezonos KPI-tábla üres marad; nincs rangsor vagy súlyozás.
+
+**Hatókör, 2026. október 1.** Ez a lap a belső munkavázlat szeptember 29-i állapotát tükrözi, amikor a feldolgozás három–négy klubra terjedt ki. Azóta **tizenegy klub** adata került be, és mind a tizenkét NB I-es klubot átnéztük. A leírt mezők, státuszok és adatminőségi szabályok **változatlanul érvényesek** — a bővülés nem a modellt érintette, hanem a rekordok számát.
+
+Egy ponton viszont a bővülés fogalmi kérdést vetett fel: **a feldolgozott jogi személy sehol nem azonos a klubbal**. Ennek következményeit a [„Nyilvános, de nem mérhető" lap 11. pontja](NYILVANOS_DE_NEM_MERHETO.md) tárgyalja.
 
 ## Törzsadatok
 

@@ -61,6 +61,8 @@ Nincs tehát átláthatósági rangsor. Van négy különböző közzétételi g
 
 A program mérési protokollja 15 mutatót határoz meg négy pillérben. A négyklubos feldolgozás után az alábbi kép áll:
 
+> **Hatókör, 2026. október 1.** Ez a térkép **négy klub** részletes feldolgozásán alapul, és azóta **nem készítettük el újra** a tizenegy klubos bázison. A [10.](#10-a-játékjog-összevonás-nem-egy-klub-szokása) és a [12. pont](#12-a-bontás-megléte-nem-következik-a-melléklet-gazdagságából) a bővebb mintából származó megállapításokat tartalmazza, de a lenti táblázat nem változott. A táblázat tehát **alsó becslés**: azt mutatja, mi volt kiszámítható a négy klub körében.
+
 | | Mutató | Nyilvános beszámolóból? |
 |---|---|---|
 | P1 | Tulajdonosi és szavazati struktúra | **részben** – cégadatból, nem a beszámolóból |
@@ -103,6 +105,8 @@ A vizsgált négy klubból három **egyedi** társasági beszámolót közöl, e
 Ez nem mennyiségi, hanem szerkezeti különbség: a konszolidált beszámoló a klubcsoport egészét fedi le, az egyedi csak egy társaságot. **Tételes egyeztetés nélkül a kettő nem vethető össze**, még akkor sem, ha mindkettő ugyanolyan részletes lenne.
 
 Az összehasonlíthatóság tehát **két egymástól független ponton sérül**: a bontás mélységében és a beszámolási kör terjedelmében.
+
+> **Kiegészítés, 2026. október 1.** A teljes liga átnézése után kiderült, hogy ez a dimenzió lényegesen összetettebb, mint ahogy itt leírtuk. **Nem kétféle beszámolási kör van, hanem legalább négy**, és a probléma nem csak abban áll, hogy mely *szervezetek* tartoznak a körbe. A részletek a [11. pontban](#11-egyetlen-klubnál-sem-azonos-a-futballtársaság-a-klubbal) — beleértve azt is, hogy ez a kutatás **saját mérési egységét** is érinti.
 
 ## 7. Egy módszertani tanulság, amit érdemes megosztani
 
