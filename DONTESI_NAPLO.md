@@ -1,5 +1,19 @@
 # Döntési napló
 
+## 2026-10-01 – Közöljük a saját módszertanunk korlátját
+
+**Döntés: a 11. pont — hogy egyetlen klubnál sem azonos a futballtársaság a klubbal — nyilvánosságra kerül, annak ellenére, hogy a saját eddigi munkánk érvényességét szűkíti.**
+
+A kutatás tizenegy klubnál a **futballtársaság** beszámolóját dolgozta fel. A teljes liga átnézése után kiderült, hogy ez sehol nem fedi le a klub egészét, és egy klubnál — ahol az összevont kimutatás ezt lehetővé tette — kiszámítható volt, hogy a futballtársaság a kisebbik felét teszi ki.
+
+**Ezt közölni kell.** Ha egy átláthatóságról szóló kutatás elhallgatja a saját mérési egységének korlátját, akkor azt kéri másoktól, amit maga nem teljesít. A pont ezért nem lábjegyzetben szerepel, hanem önálló, számozott szakaszként.
+
+**Amit ez nem jelent.** Nem vonjuk vissza a korábbi megállapításokat: azok **entitásszinten** állnak, és a számtani ellenőrzések érvényesek. Ami nem megalapozott, az a **klubszintű általánosítás** — és eddig nem is tettünk ilyet, mert klubonkénti számadatot nem közöltünk.
+
+**Egy arányt mégis közlünk.** A 11. pont megemlíti, hogy az egyik klubnál a futballtársaság a klub bevételének a kisebbik felét teszi ki. Ez klubszintű pénzügyi jellemző, tehát feszegeti a [2026-09-29-i közlési kaput](#2026-09-29--mi-kerül-nyilvánosságra-a-klubfeldolgozásból). Azért fér bele, mert **szerkezeti állítás, nem a gazdálkodás minősítése**, és mert nélküle a pont állítása mérhetetlen marad — „van kimaradó rész" önmagában semmitmondó. Összeget nem közlünk, és a megfogalmazás tartományos, nem pontos arány.
+
+**Amit nem állítunk.** Hogy a széttagoltság bárhol bármit elrejtene — a felépítésnek adójogi, támogatási és felelősségi okai vannak, és az MLSZ saját szabályzata is önálló fogalomként kezeli a „klubcsoportot". És hogy a kimaradó rész máshol is akkora lenne: **egyetlen klubnál mértük meg**, ott, ahol a klub maga tette lehetővé.
+
 ## 2026-09-30 – Helyreigazítás a helyén, nem hozzáfűzéssel
 
 **Döntés: a két téves állítást a saját helyükön javítjuk, az eredeti megfogalmazást pedig szó szerint megőrizzük.**

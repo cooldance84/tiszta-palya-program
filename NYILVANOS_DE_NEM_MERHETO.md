@@ -165,7 +165,9 @@ A 8. pont eredetileg azt javasolta, hogy a közös közzétételi sablont klubli
 
 > A 2. számú melléklet szerinti tartalom kerüljön ugyanabba a közzétételi körbe, ahol a törvényes beszámoló már ma is van.
 
-Ez nem új adatgyűjtés, nem új teher a kluboknak, és az adat már ma is könyvvizsgált. A mérési protokoll tizenöt mutatójából **hét** olyan, amelynek adata ebből a körből ma is rendelkezésre áll.
+Ez nem új adatgyűjtés, nem új teher a kluboknak, és az adat már ma is könyvvizsgált. A mérési protokoll tizenöt mutatójából **nyolc** olyan, amelynek adata szövetségi szinten ma is rendelkezésre áll.
+
+*(A nyolcadik 2026. október 1-jén került ide: a saját nevelésű játékpercek mutatója. Az MLSZ **Férfi Produktivitási Szabályzata** pontosan ezt méri — „a pontok számításának alapja az adott sportszervezethez köthető labdarúgónak a figyelembe vehető mérkőzéseken/bajnokságokban pályán töltött perceinek száma" —, és a pontok pénzügyi támogatássá válnak. Korábban azért nem soroltuk ide, mert a Klublicenc Szabályzatban kerestük, és ott nincs.)*
 
 ### „Akkor miért nem kérik be egyszerűen?"
 
@@ -188,6 +190,86 @@ A **hatályos kiadáson**: MLSZ Klublicenc Szabályzat 2026/27, ELN-114/2025 (11
 A szabályzat **6. számú mellékletét** — amely a közlési követelmények enyhítéséről szól — átnéztük: **a fenti megállapítást nem szűkíti.** Kizárólag feljutó klubokra vonatkozik, a 2. számú melléklet közlési követelményeit nem enyhíti, és az első bajnoki év után semmilyen közlési enyhítés nem marad érvényben.
 
 A szabályzatot nem jogi szakértőként olvastuk. A következtetések jogi és licencszakmai felülvizsgálatot igényelnek.
+
+## 10. A játékjog-összevonás nem egy klub szokása
+
+**Kiegészítés, 2026. október 1.**
+
+A [7. pont](#7-egy-módszertani-tanulság-amit-érdemes-megosztani) és a [9. pont](#9-a-közzétételi-szabvány-létezik--csak-nem-nyilvános) az FTC példáján mutatta be, hogy a játékosjog-sor összevontan szerepel: az értékesítést és a kölcsönadást egyetlen soron közli a beszámoló, ezért a mérési protokoll transzfermutatói nem számíthatók.
+
+A teljes liga feldolgozása után kiderült, hogy **ez nem az FTC sajátossága**. Három, egymástól független klubnál ugyanaz a szerkezet, három különböző megfogalmazásban:
+
+| Klub | A sor megnevezése a beszámolóban |
+|---|---|
+| Ferencváros | „Játék- és egyéb munkavállalói jog **értékesítése, kölcsönadása**" |
+| Paksi FC | „Játékos **átigazolások, kölcsönzések** bevételei" |
+| Zalaegerszegi TE | „Játékjog **ideigl. és végl.** átengedése" |
+
+Eltérő tulajdonosi háttér, eltérő méret, eltérő könyvelő — **ugyanaz az összevonás**. Ez nem klubspecifikus gyakorlat, hanem a hazai számviteli szokás jellemzője.
+
+**És pontosan ez az, amit a [9. pontban](#9-a-közzétételi-szabvány-létezik--csak-nem-nyilvános) bemutatott licencsablon megoldana.** A Klublicenc Szabályzat 2. számú melléklete a játékosértékesítésből származó bevételt **két külön soron** kéri, aszerint, hogy a játékjogot korábban aktiválták-e. A szétválasztás tehát elő van írva — csak nem abban a dokumentumban, ami nyilvános.
+
+Egy klub a mintában **mégis megadja** a felbontást: a Paksi FC a kiegészítő mellékletében külön közli az értékesítésből elszámolt bevételt és a kivezetett játékjog könyv szerinti értékét. Vagyis a szétválasztás **nem technikai lehetetlenség** — döntés kérdése.
+
+## 11. Egyetlen klubnál sem azonos a futballtársaság a klubbal
+
+Ez a kutatás legkellemetlenebb megállapítása, mert a **saját módszerünket** is érinti.
+
+Az elemzés eddig a klubok **futballtársaságának** beszámolóját dolgozta fel. A tizenkét NB I-es klub átnézése után kiderült: **egyetlenegynél sem azonos a futballtársaság a klubbal.** Mindegyiknél van legalább egy további szereplő — tulajdonos egyesület, külön utánpótlás-társaság, marketingcég, alapítvány vagy csoportszintű anyavállalat.
+
+**Az utánpótlás szinte mindenhol külön jogi személyben van.** Ez közvetlenül érinti az utánpótlási pillért: az akadémiai adat nem is abban a beszámolóban van, amit a klubról olvasunk.
+
+### Mekkora a kimaradó rész?
+
+**Egyetlen klubnál tudtuk megmérni** — ott, ahol a klub maga tette lehetővé. A Kisvárda a futballtársaság és a sportegyesület adatait **egymás mellett, a közös ügyletek kiszűrésével** teszi közzé. Ebből kiderül, hogy a futballtársaság a klub teljes bevételének **a kisebbik felét teszi ki**.
+
+A többi tizenegy klubnál ezt **nem tudjuk megmérni**, mert nincs ilyen összevont kimutatás. Azt sem állítjuk, hogy bárhol akkora lenne az eltérés — csak azt, hogy **nem tudjuk, és eddig nem is kérdeztük**.
+
+### Három dimenzió, nem egy
+
+**Mely szervezetek?** A klasszikus eset: egyesület, akadémia, marketingcég.
+
+**Mely eszközök?** Egy klub Győr Megyei Jogú Várostól **huszonöt évre működtetésbe kapott** két ingatlant, és ezt vagyoni értékű jogként mutatja ki. A stadion tehát nem a társaság tulajdona, a használat joga viszont a könyvekben van. **Két klub eszközállománya akkor sem összehasonlítható, ha mindkettő ugyanazt a bontást közli** — mert az egyiknél a létesítmény saját tulajdon, a másiknál használati jog, a harmadiknál az egyesületnél van.
+
+**Melyik irányban?** A legtöbb klubnál „lefelé" (leányvállalat) vagy „oldalra" (testvérszervezet). Egy klubnál **„felfelé"**: a társaság egy tőzsdén jegyzett cég konszolidációs körének része, tehát a teljes kép a csoportbeszámolóban van, nem a klubnál.
+
+### Amit ebből nem állítunk
+
+**Nem állítjuk, hogy a széttagoltság bármit elrejtene.** A többszervezetes felépítésnek adójogi, támogatási és felelősségi okai vannak, és a sportfinanszírozási rendszer maga ösztönzi. Az MLSZ **Férfi Produktivitási Szabályzata** külön fogalomként definiálja a **„klubcsoportot"** — vagyis a szabályozó maga is számol azzal, hogy a klubok több szervezetből állnak.
+
+**Amit viszont állítunk:** a „klub bevétele" kifejezés nyilvános beszámolókból, pontosítás nélkül **nem értelmes mennyiség**. Ez nem adathiány, hanem fogalmi kérdés — és a közzétételi szabvány ma a *bontást* írja elő, a *kört* nem.
+
+### A megoldás már létezik a mezőnyben
+
+A kisvárdai megoldás — két szervezet egymás mellett, kiszűrt közös ügyletekkel, összesítéssel — **többet ad, mint amit a Klublicenc Szabályzat megkövetel**, és mintaként használható. Az olvasó megkapja a részeket, az összesítést és a kiszűrt tételeket.
+
+## 12. A bontás megléte nem következik a melléklet gazdagságából
+
+A tizenegy feldolgozott klubból **háromnál** találtunk jogcím szerinti bevételi bontást a közzétett beszámolóban, kettőnél részlegeset, a többinél nem.
+
+Kézenfekvő volna azt hinni, hogy a részletes bontás a gondos, bőbeszédű beszámolókkal jár együtt. **Nem így van.**
+
+Az egyik klub 2025-re teljes éves beszámolót tesz közzé kiegészítő melléklettel, cash flow-kimutatással és **üzleti jelentéssel** — ez utóbbi a számviteli törvény szerint nem is része a közzéteendő beszámolónak. Az üzleti jelentés részletesen beszámol a sportszakmai munkáról, az utánpótlásról, az infrastruktúra-fejlesztésekről. **Jogcím szerinti bevételi bontás viszont nincs benne.**
+
+Ugyanakkor egy másik klub, amely jóval szűkszavúbb anyagot tesz közzé, **a licencsablonnak majdnem sorról sorra megfelelő bevételi bontást** ad.
+
+**Egy klub tehát lehet bőbeszédű a működéséről és néma a bevételi szerkezetéről.** A kettő nem ugyanaz a döntés, és nem is ugyanaz a hajlandóság kérdése — ami megint arra mutat, hogy **a szabványnak kell kimondania, mit kell közölni.**
+
+## 13. Módszertani tanulság: háromszor mértünk alul, mindig egy irányba
+
+A [7. pont](#7-egy-módszertani-tanulság-amit-érdemes-megosztani) már rögzítette, hogy a keresőmotoros közzétételi felmérésünk hatból ötször tévesen állapított meg hiányt. A teljes liga feldolgozása közben **további két téves negatív** derült ki, és ezzel a hibatípus mechanizmusa is világossá vált.
+
+| Eset | Miért mértünk alul? |
+|---|---|
+| Hat klubnál „nem tesz közzé" | a TAO-oldalon közöltek, nem külön „gazdálkodás" oldalon |
+| Egy klub dokumentumai „nem elérhetők" | a szerver **automatizált forgalmat szűrt**; böngészőből a letöltés működik |
+| Egy klubnál „nincs könyvvizsgálói jelentés" | **rövidítéssel** jelölve, nem kiírt névvel |
+
+**A közös ok: a hiány megállapítása nehezebb, mint a meglété** — és a torzítás mindig ugyanabba az irányba mutat. Mindhárom esetben a dokumentum ott volt, csak nem ott vagy nem úgy, ahogy kerestük.
+
+**Ezt más kutatásoknak is érdemes figyelembe venniük.** Egy közzétételi felmérésnél a negatív megállapítás önmagában nem érvényes. Legalább ezeket kell kizárni: a dokumentum másik aloldalon van; rövidítéssel vagy eltérő megnevezéssel szerepel; a szerver botszűrése téveszt meg; a fájl harmadik fél tárhelyén van.
+
+**Hogy a saját gyakorlatunkat is ehhez mérjük:** a tizenkettedik klubnál, ahol a honlapon beszámolót nem találtunk, a vizsgálatot böngésző-azonosítóval megismételtük, és a megállapításunkban tételesen felsoroltuk, mit nem tudunk kizárni. **Szabálytalanságot nem állítunk** — azt a licencadó vizsgálja, nem ez a kutatás.
 
 ## Korlátok
 

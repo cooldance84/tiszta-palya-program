@@ -35,7 +35,9 @@ A magyar klubfutball pénzügyi adatai nyilvánosak, és a klubok a saját honla
 
 - **[Nyilvános, de nem mérhető: mit lehet a magyar klubok éves beszámolóiból kiszámítani?](NYILVANOS_DE_NEM_MERHETO.md)**
 
-A lap négy klub beszámolójának feldolgozására és tizenkét NB I-es klub közzétételi felmérésére épül. Klubonkénti pénzügyi számadatot nem közöl: a kutatás nyers rekordjainak emberi és független szakmai felülvizsgálata még nem történt meg.
+A lap **tizenegy klub beszámolójának feldolgozására és mind a tizenkét NB I-es klub átnézésére** épül. Klubonkénti pénzügyi számadatot nem közöl: a kutatás nyers rekordjainak emberi és független szakmai felülvizsgálata még nem történt meg.
+
+Három olyan megállapítás, amelyhez a teljes liga átnézése kellett: a **játékjog-összevonás** három egymástól független klubnál ugyanaz; **egyetlen klubnál sem azonos a futballtársaság a klubbal**; és a bevételi bontás megléte **nem következik** abból, milyen bőbeszédű egyébként a beszámoló.
 
 ## Kutatási helyzetjelentések
 

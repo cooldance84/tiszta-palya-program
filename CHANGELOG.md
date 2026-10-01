@@ -6,6 +6,21 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-10-01 – A teljes liga átnézve: négy új megállapítás
+
+A [„Nyilvános, de nem mérhető"](NYILVANOS_DE_NEM_MERHETO.md) lap négy új ponttal bővült. A lap eddig **négy klub** feldolgozására épült; most **tizenegy** klub feldolgozására és mind a tizenkettő átnézésére.
+
+- **10. pont – a játékjog-összevonás nem egy klub szokása.** Három, egymástól független klubnál ugyanaz a szerkezet, három különböző megfogalmazásban: az értékesítés és a kölcsönadás egyetlen soron. Eltérő tulajdonos, méret és könyvelő — ugyanaz a gyakorlat. A licencsablon ezt két külön soron kéri; egy klub a mintában meg is adja a felbontást, tehát **nem technikai lehetetlenség**.
+- **11. pont – egyetlen klubnál sem azonos a futballtársaság a klubbal.** Mind a tizenkét NB I-es klubnál van legalább egy további szereplő: tulajdonos egyesület, külön utánpótlás-társaság, marketingcég, alapítvány vagy csoportszintű anyavállalat. **Az utánpótlás szinte mindenhol külön jogi személyben van.** A probléma három dimenziós: mely szervezetek, mely eszközök (egy klub huszonöt évre működtetésbe kapott önkormányzati ingatlant mutat ki vagyoni értékű jogként), és melyik irányban (egy klub tőzsdei anyavállalat konszolidációs körében van).
+- **12. pont – a bontás megléte nem következik a melléklet gazdagságából.** Egy klub teljes beszámolót, cash flow-t és üzleti jelentést is közzétesz, bevételi bontást viszont nem; egy másik, szűkszavúbb klub a licencsablonnak majdnem sorról sorra megfelelő bontást ad.
+- **13. pont – háromszor mértünk alul, mindig egy irányba.** A szeptemberi hatból öt téves negatív mellé két új került: egy szerver automatizált forgalmat szűrt, egy klub pedig rövidítéssel jelölte a könyvvizsgálói jelentését. A közös ok: **a hiány megállapítása nehezebb, mint a meglété**. A pont felsorolja, mit kell kizárni egy negatív megállapítás előtt.
+
+**A 9. pont száma javítva: hétről nyolcra.** A saját nevelésű játékpercek mutatója átkerült abba a körbe, amelynek adata szövetségi szinten ma is rendelkezésre áll. Az MLSZ **Férfi Produktivitási Szabályzata** pontosan ezt méri, és a pontok pénzügyi támogatássá válnak. Korábban azért nem soroltuk ide, mert a Klublicenc Szabályzatban kerestük, és ott nincs.
+
+**Klubonkénti pénzügyi számadatot az új pontok sem közölnek.** A 11. pont egyetlen arányt említ — hogy az egyik klubnál a futballtársaság a klub bevételének a kisebbik felét teszi ki —, mert az a pont állításának lényege, és szerkezeti jellemző, nem a klub gazdálkodásának minősítése.
+
+A programkiadás továbbra is 0.9.2-j1.
+
 ### 2026-09-30 – Helyreigazítás: a közzétételi szabvány létezik
 
 **Két, szeptember 29-én közölt állításunk téves volt. Mindkettőt javítottuk.**
