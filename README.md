@@ -44,11 +44,17 @@ Három olyan megállapítás, amelyhez a teljes liga átnézése kellett: a **j�
 - **[2026. szeptember 23. – forrásintegritás és az MTK bevételi feltárása](KUTATASI_STATUSZ_2026-09-23.md)** (szeptember 29-én két kiegészítő ponttal)
 - [2026. szeptember 22. – háromklubos előzetes feltárás](KUTATASI_STATUSZ.md)
 
-Elkészült az FTC, a Puskás Akadémia és az MTK labdarúgó-társaságának 2022–2024-es éves beszámolóira épülő előzetes pénzügyi feldolgozás. A szervezeti körök, bevételi besorolások és sportági időszakok eltérései miatt további egyeztetés szükséges. Az adatátvétel AI-val támogatott; független szakmai felülvizsgálata még hátravan.
+Ezek a lapok a kutatás korábbi állapotát rögzítik, és **stabil hivatkozásként változatlanul megmaradnak**. A szeptember 22-i három klubról és a szeptember 23-i forrásintegritásról szóló megállapítások érvényesek; azóta a feldolgozás **tizenegy klubra** bővült, és mind a tizenkét NB I-es klubot átnéztük. A legfrissebb kutatási eredményt a [„Nyilvános, de nem mérhető"](NYILVANOS_DE_NEM_MERHETO.md) lap tartalmazza.
 
-A kutatás 23 nyilvános dokumentumból dolgozik. Mindegyikhez közöljük a közzétételi helyet, a letöltés napját és a SHA-256 lenyomatot, hogy a forrás azonossága **külső ellenőrzéssel is visszakövethető** legyen.
+A szervezeti körök, bevételi besorolások és sportági időszakok eltérései miatt további egyeztetés szükséges. Az adatátvétel AI-val támogatott; független szakmai felülvizsgálata még hátravan.
 
-- [Elsődleges forrásjegyzék és forrásintegritás](FORRASJEGYZEK.md)
+### Forrásintegritás – és ahol ma tart
+
+Minden felhasznált forráshoz rögzítjük a közzétételi helyet, a letöltés napját és a SHA-256 lenyomatot, hogy a forrás azonossága **külső ellenőrzéssel is visszakövethető** legyen.
+
+**A nyilvános forrásjegyzék jelenleg 23 dokumentumot tartalmaz — a kutatás azóta 63 forrásból dolgozik**, ebből 55-höz tartozik megőrzött példány és ellenőrzött lenyomat. A jegyzék bővítése hátravan; addig a visszakövethetőség az alábbi 23 dokumentumra áll, a többire nem.
+
+- [Elsődleges forrásjegyzék és forrásintegritás](FORRASJEGYZEK.md) – 23 dokumentum
 
 Ezek kutatási státuszfrissítések; az aktuális konzultációs kiadás továbbra is **0.9.2-j1**.
 
