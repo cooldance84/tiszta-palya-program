@@ -139,6 +139,22 @@ Minden mutatóhoz kötelező:
 - adatforrás-típus;
 - adatvédelmi és összehasonlíthatósági megjegyzés.
 
+**`hozzaferesi_ut` (2026. október 1-jén publikálva).** Azt rögzíti, **milyen beavatkozás kellene** ahhoz, hogy a mutató mérhetővé váljon — nem azt, hogy ma mérhető-e. Ez a két kérdés külön tengely: az elsőre a [„Nyilvános, de nem mérhető" lap 4. pontja](NYILVANOS_DE_NEM_MERHETO.md) válaszol, a másodikra ez a mező.
+
+| Érték | Jelentés |
+|---|---|
+| `ma_merheto` | nyilvános beszámolóból ma is kiszámítható |
+| `licencadat_publikalas` | a szövetség valamelyik eljárása ma is bekéri vagy előállítja, de nem nyilvános |
+| `licencadat_reszkor` | ugyanaz, de csak a klubok egy részére (UEFA-eljárás) áll elő |
+| `kozzeteteli_sablon` | az adat a klub könyveiben megvan, csak nincs egységesen közölve |
+| `kozzeteteli_sablon_reszben` | a mutató egyik fele ma is mérhető, a másikhoz sablon kell |
+| `uj_klubnyilvantartas` | a klubnak vezetnie kellene valamit, ami ma nincs |
+| `harmadik_fel_adat_jogalap` | harmadik fél adata azonosítható személyekről; adatkezelési jogalap kérdése is |
+
+**Tizenötből nyolc mutató adata szövetségi szinten ma is rendelkezésre áll** (`ma_merheto` + `licencadat_publikalas`). Ezekhez nem új adatgyűjtés kell, hanem publikálási döntés — ez a [9. pont](NYILVANOS_DE_NEM_MERHETO.md) javaslatának alapja.
+
+**Három besorolás külön magyarázatot kíván.** A `P2_M02` (keretköltség-ráta) azért `reszkor`, mert az MLSZ-eljárásban nem szerepel, csak a UEFA-éban. A `P2_M04` (likviditási tartalék) azért `licencadat`, mert a negyedéves cash flow terv kötelezően benyújtandó — de a *szabadon felhasználható* pénzeszköz elkülönítése ebből sem jön ki. A `P3_M01` (saját nevelésű játékpercek) 2026. október 1-jén került ide: az MLSZ **Férfi Produktivitási Szabályzata** pontosan ezt méri.
+
 ## Megfigyelések
 
 A `megfigyelesek.csv` egy sora egy klub–szezon–mutató megfigyelés. A `statusz` értéke lehet:

@@ -6,6 +6,20 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-10-01 – Forrásjegyzék, mutatónyilvántartás, mátrix és mérhetőségi kiegészítés
+
+Négy olyan lap frissült, amely a kutatás **visszakövethetőségét** szolgálja. Új állítás nem került be; a meglévő ígéretek helyreállításáról van szó.
+
+- **[Forrásjegyzék](FORRASJEGYZEK.md): 23 → 63 dokumentum.** A README eddig azt állította, hogy a kutatás 23 dokumentumból dolgozik; ez már nem volt igaz, és a visszakövethetőségi ígéret így a harmadára állt. A jegyzék most klubonként csoportosítva tartalmazza mind a 63 forrást. **55-höz tartozik megőrzött példány és ellenőrzött SHA-256 lenyomat**; nyolc katalógussorhoz nem tartozik letöltött fájl, ezeknél a lenyomat helyén `–` áll.
+- **Webarchívum: kiírva a korlát.** Az eredeti 23 forrásból 22-höz van független archív mentés. **A későbbi 40-hez nincs** — ezek visszakövethetősége ma gyengébb, és ez hátralévő munka.
+- **[mutatok.csv](mutatok.csv): új `hozzaferesi_ut` oszlop**, és az [adatmodell](ADATMODELL.md) leírja az értékkészletét. Ez teszi gépileg is ellenőrizhetővé a 9. pont állítását, hogy tizenötből nyolc mutató adata szövetségi szinten ma is rendelkezésre áll.
+- **[Állítás–forrás mátrix](ALLITAS_FORRAS_MATRIX.md) 0.5: tíz új sor** (41–50), a szabályzati megállapításokról, a játékjog-összevonásról, a beszámolási körről, a saját nevelésű játékpercek rendszeréről, a saját módszertani hibáinkról és a forrásintegritás jelenlegi állapotáról.
+- **A 4. pont kiegészítve:** a mérhetőségi térkép négy klub feldolgozásán alapul. A három „klubfüggő" sort a tizenegy klubos mintán végignéztük — **a jogcím szerinti bevételi bontás nagyjából fele-fele arányban van meg**, és a bontást közlő klubok sem ugyanazokat a sorokat közlik. A táblázat többi sorát nem készítettük el újra, és ezt a lap kiírja.
+
+**Négy további lapon javítottunk elavult állítást** (`ADATMODELL.md`, `METODIKA_ES_MUTATOK.md`, és a „Nyilvános, de nem mérhető" 4. és 6. pontja), amelyek még a három–négy klubos állapotot tükrözték.
+
+A programkiadás továbbra is 0.9.2-j1.
+
 ### 2026-10-01 – A teljes liga átnézve: négy új megállapítás
 
 A [„Nyilvános, de nem mérhető"](NYILVANOS_DE_NEM_MERHETO.md) lap négy új ponttal bővült. A lap eddig **négy klub** feldolgozására épült; most **tizenegy** klub feldolgozására és mind a tizenkettő átnézésére.

@@ -61,7 +61,7 @@ Nincs tehát átláthatósági rangsor. Van négy különböző közzétételi g
 
 A program mérési protokollja 15 mutatót határoz meg négy pillérben. A négyklubos feldolgozás után az alábbi kép áll:
 
-> **Hatókör, 2026. október 1.** Ez a térkép **négy klub** részletes feldolgozásán alapul, és azóta **nem készítettük el újra** a tizenegy klubos bázison. A [10.](#10-a-játékjog-összevonás-nem-egy-klub-szokása) és a [12. pont](#12-a-bontás-megléte-nem-következik-a-melléklet-gazdagságából) a bővebb mintából származó megállapításokat tartalmazza, de a lenti táblázat nem változott. A táblázat tehát **alsó becslés**: azt mutatja, mi volt kiszámítható a négy klub körében.
+> **Hatókör és frissítés, 2026. október 1.** A lenti táblázat **négy klub** részletes feldolgozásán alapul. A bővebb, tizenegy klubos mintán **két dolgot ellenőriztünk szisztematikusan**, és ezek eredményét az alábbi „Mit mutat a tizenegy klub?" szakasz közli. A többi sort **nem készítettük el újra** — azokhoz nincs minden klubra igazolt adatunk, és nem is állítjuk, hogy változnának.
 
 | | Mutató | Nyilvános beszámolóból? |
 |---|---|---|
@@ -87,6 +87,22 @@ Két megjegyzés a táblához:
 
 - A **meccsnapi bevételnél megfordul a sorrend**: a részletesebben közlő klub nem közöl külön jegyárbevételt, a kevésbé részletes viszont igen. A „részletesebb" tehát nem azonos a „hasznosabb"-bal.
 - A **szponzori koncentrációnál** a kapcsolt fél érdekköre azonosítható, a harmadik felek háttere nem. Vagyis látszik, mennyi jön a tulajdonostól, de nem látszik, hogy a maradék koncentrált-e — pedig épp ez a finanszírozási sérülékenység fő kérdése.
+
+### Mit mutat a tizenegy klub?
+
+A fenti táblázat három sora — a bérköltség-arány, a bevételi diverzifikáció és a meccsnapi bevétel — azon múlik, hogy a klub **jogcím szerint bontja-e a bevételét** a közzétett beszámolóban. Ezt a bővebb mintán végignéztük:
+
+| | Hány klubnál? |
+|---|---|
+| Jogcím szerinti bevételi bontás **van** a közzétett beszámolóban | **5** |
+| **Nincs** — az árbevétel egyetlen soron vagy csak főösszegben | **5** |
+| Nem vizsgáltuk (a konszolidált mellékletet nem néztük át) | 1 |
+
+**Külön jegy- vagy meccsnapi bevételi sort négy klubnál találtunk** — egyiküknél a jegy és a bérlet összevonva szerepel.
+
+**Két következtetés.** Egyrészt a „klubfüggő" minősítés **a bővebb mintán is áll**, és nagyjából fele-fele arányban: a mezőny egyik fele közli a bontást, a másik nem. Másrészt a bontást közlő öt klub **nem ugyanazokat a sorokat** közli, és nem ugyanúgy nevezi őket — vagyis még közöttük sem áll össze összevethető kép.
+
+**A táblázat többi sorát nem vizsgáltuk újra** a tizenegy klubon. Azokhoz nincs minden klubra igazolt adatunk, és nem állítjuk, hogy a négyklubos értékelésük megváltozna.
 
 ## 5. Két dokumentált határ
 
