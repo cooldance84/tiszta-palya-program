@@ -6,6 +6,15 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-10-02 – Adatjavítás és egy saját megjegyzés helyreigazítása
+
+- **[Adatmodell](ADATMODELL.md): 34 rekordnál fel volt cserélve két mező** — az ÁFA-kezelés és a forrásoszlop jelölése. A betöltő argumentumsorrendje csúszott el. Javítva; az ellenőrzés szerint a mezőszám és a rekordszám változatlan, és az értékmező összege a javítás előtt és után azonos, tehát **adat nem sérült**. Ez a negyedik eset ugyanebből a hibatípusból, és most derült ki, hogy a korábbi ellenőrzésünk — a mezőszám vizsgálata — **nem elegendő**: az érintett mezők értékkészletét is listázni kell. A lap ezt is közli.
+- **Egy október 1-jei megjegyzésünket javítottuk.** Azt írtuk, hogy a tizenegy klubra bővülés „nem a modellt érintette". Téves volt: a `beszamolasi_kor` mező **értékkészlete érdemben kinyílt**, mert négy különböző szerkezet jelent meg a mezőnyben. A mező ezért nem leíró címke, hanem **összehasonlíthatósági kapcsoló** — két rekord csak akkor vethető össze, ha azonos tartalmat jelöl. Új szakasz írja le a négy esetet.
+- **[Felhasználási és módszertani nyilatkozat](FELHASZNALASI_ES_MODSZERTANI_NYILATKOZAT.md):** a korábbi szöveg azt állította, hogy a forrásjegyzék *minden* dokumentumhoz közli a SHA-256 lenyomatot. Ez már nem igaz (63-ból 55), és éppen ez a mondat indokolta az AI-közreműködés ellensúlyát. Javítva, a webarchív-lefedettség korlátjával együtt. Ugyanitt rögzítve a jelenlegi mérték: 557 rekord tizenegy klubról, **mind az 557-nél üres az emberi felülvizsgáló mezője**.
+- **[Szeptember 23-i helyzetjelentés](KUTATASI_STATUSZ_2026-09-23.md):** dátumozott megjegyzés arról, hogy az ott hivatkozott forrásjegyzék azóta 63 tételre bővült. Az ott leírt 23 forrásra az eredeti állítás változatlanul áll.
+
+A programkiadás továbbra is 0.9.2-j1.
+
 ### 2026-10-01 – Forrásjegyzék, mutatónyilvántartás, mátrix és mérhetőségi kiegészítés
 
 Négy olyan lap frissült, amely a kutatás **visszakövethetőségét** szolgálja. Új állítás nem került be; a meglévő ígéretek helyreállításáról van szó.

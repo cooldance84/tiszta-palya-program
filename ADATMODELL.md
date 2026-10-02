@@ -2,7 +2,9 @@
 
 **Közzétéve:** 2026. szeptember 29. A belső munkavázlat közlésre változatlanul átvett szövege.
 
-> **Figyelem a számokra, 2026. október 1.** A lap szövegében szereplő **konkrét rekordszámok a szeptember 29-i állapotot tükrözik** (349 nyers sor, három-négy klub). **Azóta 557 rekord van tizenegy klubról.** A leírt mezők, státuszok és adatminőségi szabályok ettől függetlenül **változatlanul érvényesek** — a bővülés nem a modellt érintette. A lapot szándékosan nem írtuk át a helyén: a számok így mutatják, mikor mit rögzítettünk. A frissebb összképet a [„Nyilvános, de nem mérhető"](NYILVANOS_DE_NEM_MERHETO.md) lap adja.
+> **Hatókör és javítás, 2026. október 2.** A lap szövegében szereplő **konkrét rekordszámok a szeptember 29-i állapotot tükrözik** (349 nyers sor, három-négy klub). **Azóta 557 rekord van tizenegy klubról.** A lapot szándékosan nem írtuk át a helyén: a számok így mutatják, mikor mit rögzítettünk. A frissebb összképet a [„Nyilvános, de nem mérhető"](NYILVANOS_DE_NEM_MERHETO.md) lap adja.
+>
+> **Egy korábbi megjegyzésünket javítjuk.** Október 1-jén azt írtuk ide, hogy „a bővülés nem a modellt érintette". **Ez téves volt.** A mezők és adatminőségi szabályok valóban változatlanok, de a `beszamolasi_kor` mező **értékkészlete érdemben kinyílt** — lásd az alábbi önálló szakaszt. Ez nem formai bővülés: ettől a mezőtől függ, hogy két rekord egyáltalán összevethető-e.
 
 ## Miért nyilvános ez?
 
@@ -191,3 +193,28 @@ Ebben a verzióban nincs összpontszám és nincs klubrangsor. A súlyozást csa
 A [0.9.2-j1 módszertani protokoll](METODIKA_ES_MUTATOK.md) rögzíti a mutatóazonosítók részletes értelmezését, időszakát, nevezőjét, adatgazdáját és hiánykezelését. A `mutatok.csv` törzsdefiníciói ehhez igazodnak; státuszuk továbbra is tervezet, a TF szakmai visszajelzése még szükséges. Új ellenőrzött megfigyelés vagy bizonyítéksor ebben a javításban nem keletkezett.
 
 A 0.2-es pénzügyi tábla már tartalmazza a jogi/beszámolási kört, időszakkezdést és -véget, definícióverziót, hozzáférési dátumot, oldalszintű forráshelyet, ellenőrzőt és ellenőrzési dátumot. A szezonos `megfigyelesek.csv` sémáját annak első tényleges adatbetöltése előtt ugyanígy bővíteni kell. A labdarúgó-szezon és az üzleti év nem feleltethető meg egymásnak automatikusan.
+
+## A beszámolási kör mint összehasonlíthatósági kapcsoló
+
+**Kiegészítés, 2026. október 2.**
+
+A tizenegy klubra bővüléskor a `beszamolasi_kor` mező értékkészlete érdemben kinyílt, mert a mezőnyben **négy különböző szerkezet** jelent meg:
+
+| Szerkezet | Mit jelent |
+|---|---|
+| egyedi társasági beszámoló | a futballtársaság önálló beszámolója |
+| önálló konszolidált beszámoló | a klub maga készít konszolidáltat, NB I-es sportszervezeti kötelezettség alapján |
+| egyedi, de tőzsdei anyavállalat konszolidációs körében | a teljes kép a csoportbeszámolóban van, nem a klubnál |
+| két szervezet összevontan, a közös ügyletek kiszűrésével | a klub a részeket és az összesítést is közli |
+
+**Ez a mező ezért nem leíró címke, hanem összehasonlíthatósági kapcsoló.** Két rekord csak akkor vethető össze, ha a `beszamolasi_kor` értéke **azonos tartalmat** jelöl — és a fenti négy nem jelöl azonos tartalmat. A mérési protokoll [1. pontja](METODIKA_ES_MUTATOK.md) ezt eleve kikötötte; a gyakorlati következményeket a [„Nyilvános, de nem mérhető" lap 11. pontja](NYILVANOS_DE_NEM_MERHETO.md) tárgyalja.
+
+## Adatjavítás – 2026. október 2.
+
+Ezt azért közöljük, mert az adatminőségi szabályok közzétételének akkor van értéke, ha a saját hibákat is tartalmazza.
+
+**34 rekordnál fel volt cserélve két mező:** az ÁFA-kezelés és a forrásoszlop jelölése. A betöltő segédfüggvény argumentumsorrendje csúszott el, ezért az ÁFA-kezelés helyére az oszlopjelölés került, és viszont. Három klub rekordjait érintette.
+
+**Javítva.** Az ellenőrzés: elcsúszott sor nincs, a mezőszám és a rekordszám változatlan, és az értékmező összege a javítás előtt és után **azonos** — tehát csak a két mező helye cserélődött, maga az adat nem sérült.
+
+**Ez a negyedik eset, amikor ugyanez a hibatípus előfordult.** Az első háromnál a mezőszám is elromlott, ezért azonnal kiderült; itt a mezőszám helyes volt, és csak az értékkészlet átnézésekor tűnt fel. **A tanulság: a mezőszám-ellenőrzés nem elegendő** — minden betöltés után az érintett mezők értékkészletét is listázni kell. Ez most a belső ellenőrzési rend része.
