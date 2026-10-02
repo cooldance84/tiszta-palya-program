@@ -2,6 +2,8 @@
 
 **Közzétéve:** 2026. szeptember 29. A belső munkavázlat közlésre változatlanul átvett szövege.
 
+> **Figyelem a számokra, 2026. október 1.** A lap szövegében szereplő **konkrét rekordszámok a szeptember 29-i állapotot tükrözik** (349 nyers sor, három-négy klub). **Azóta 557 rekord van tizenegy klubról.** A leírt mezők, státuszok és adatminőségi szabályok ettől függetlenül **változatlanul érvényesek** — a bővülés nem a modellt érintette. A lapot szándékosan nem írtuk át a helyén: a számok így mutatják, mikor mit rögzítettünk. A frissebb összképet a [„Nyilvános, de nem mérhető"](NYILVANOS_DE_NEM_MERHETO.md) lap adja.
+
 ## Miért nyilvános ez?
 
 Ez a lap a kutatási adatbázis **szerkezetét és adatminőségi szabályait** írja le: milyen mezők tartoznak egy rekordhoz, milyen státuszai lehetnek egy megfigyelésnek, és mit teszünk akkor, ha egy adat hiányzik. Azért tesszük közzé, mert **a módszertan ellenőrizhetősége legalább annyira fontos, mint az eredmény** — és mert ebből látszik, milyen fegyelemmel készül az adat, amire a program állításai épülnek.

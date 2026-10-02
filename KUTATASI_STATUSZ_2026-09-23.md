@@ -10,7 +10,9 @@
 
 A kutatás 23 nyilvános dokumentumból dolgozik. **2026. szeptember 23-án mind a 23 forrást újraletöltöttük és a korábban rögzített SHA-256 lenyomat ellen ellenőriztük: mind a 23 egyezett, eltérés nélkül.**
 
-Ez két dolgot jelent. A dokumentumok a rögzítés óta változatlanok, és **bárki reprodukálhatja az ellenőrzést**: a [forrásjegyzék](FORRASJEGYZEK.md) minden bejegyzéshez közli a közzétételi helyet, a letöltés napját és a lenyomatot.
+Ez két dolgot jelent. A dokumentumok a rögzítés óta változatlanok, és **bárki reprodukálhatja az ellenőrzést**: a [forrásjegyzék](FORRASJEGYZEK.md) mindhez közli a közzétételi helyet, a letöltés napját és a lenyomatot.
+
+> **Megjegyzés, 2026. október 1.** A forrásjegyzék azóta **63 tételre bővült**, és nem mindhez tartozik megőrzött példány és lenyomat. Az itt leírt 23 forrásra a fenti állítás **változatlanul áll** — a lefedettség forrásonkénti állapotát a jegyzék maga mutatja.
 
 Az ellenőrzés nem áll meg a saját példányunknál. A 23 forrásból **22-höz létezik Internet Archive-mentés, és mind a 22 archivált példány bájtra azonos** a fenti lenyomatokkal. A források azonossága tehát nem a mi állításunkon nyugszik: egy tőlünk és a kluboktól független szervezet példánya ugyanazt adja. A 23. dokumentumhoz azért nincs mentés, mert az Internet Archive jelenleg nem archiválja azt a webhelyet — ez szolgáltatói korlát, nem a dokumentum hiánya.
 
