@@ -98,7 +98,7 @@ A fenti táblázat három sora — a bérköltség-arány, a bevételi diverzifi
 | **Nincs** — az árbevétel egyetlen soron vagy csak főösszegben | **5** |
 | Nem vizsgáltuk (a konszolidált mellékletet nem néztük át) | 1 |
 
-**Külön jegy- vagy meccsnapi bevételi sort négy klubnál találtunk** — egyiküknél a jegy és a bérlet összevonva szerepel.
+**Külön jegy- vagy meccsnapi bevételi sort a tizenegyből négynél találtunk** — egyiküknél a jegy és a bérlet összevonva szerepel.
 
 **Két következtetés.** Egyrészt a „klubfüggő" minősítés **a bővebb mintán is áll**, és nagyjából fele-fele arányban: a mezőny egyik fele közli a bontást, a másik nem. Másrészt a bontást közlő öt klub **nem ugyanazokat a sorokat** közli, és nem ugyanúgy nevezi őket — vagyis még közöttük sem áll össze összevethető kép.
 

@@ -27,7 +27,9 @@ Az 5. évi központi esetben a fedezet 2 700 M Ft, a költség 2 500 M Ft, az er
 
 ## Mérés és következő lépés
 
-Azonos jogi kör, időszak, képlet, adatgazda és ellenőrzött forrás szükséges. Hiányzó adat nem nulla. Az eladási eredmény, az időszaki transzfereredmény és a transzfer-pénzáramlás külön szerepel; validált súlyok nélkül nyers játékperceket közlünk.
+Azonos jogi kör, időszak, képlet, adatgazda és ellenőrzött forrás szükséges. Hiányzó adat nem nulla.
+
+> **Megjegyzés, 2026. október 2.** Az „azonos jogi kör" követelménye a gyakorlatban súlyosabbnak bizonyult, mint ahogy itt hangzik. Mind a tizenkét NB I-es klub átnézése után kiderült, hogy **a futballtársaság sehol nem azonos a klubbal** — és a kutatás saját feldolgozása is ebbe ütközött. Részletek a [„Nyilvános, de nem mérhető" lap 11. pontjában](NYILVANOS_DE_NEM_MERHETO.md). Az eladási eredmény, az időszaki transzfereredmény és a transzfer-pénzáramlás külön szerepel; validált súlyok nélkül nyers játékperceket közlünk.
 
 A 6-12 hónapos önkéntes pilot az adatgyűjtést és a működési folyamatokat tesztelheti. A 3-5 éves utánpótlási kimenetekhez hosszabb, teljes kohorszokra kiterjedő követés kell. Következő lépés: független szakmai és jogi felülvizsgálat, klubadatok és előre rögzített pilotterv. A négy pillér együttes hatása még nincs igazolva.
 
