@@ -1,5 +1,19 @@
 # Döntési napló
 
+## 2026-11-24 – A közzétételi javaslat nyilvános
+
+**Döntés: a Klublicenc Szabályzathoz írt közzétételi javaslat nyilvánosságra kerül, és ugyanezt a szöveget küldjük meg az MLSZ klublicenc-szervezetének.**
+
+A javaslat a „Nyilvános, de nem mérhető” lap megállapításaiból következik: a közlési szabvány létezik, kötelező és könyvvizsgált, de két ponton nem jut el a nyilvánossághoz. A javaslat ezt a két pontot nevezi meg, és mindkettőnél egy meglévő szabály kiterjesztését kéri, nem új szabályt.
+
+**Miért nyilvánosan.** A program átláthatóságot kér másoktól; a saját javaslatának is követhetőnek kell lennie. A címzett és bárki más ugyanazt a szöveget olvassa.
+
+**Közlési kapu.** A [2026-09-29-i szabály](#2026-09-29--mi-kerül-nyilvánosságra-a-klubfeldolgozásból) szerint a javaslat klubnevet és klubonkénti pénzügyi számadatot nem tartalmaz. Az egyetlen klubszintű arányt a [2026-10-01-i döntésnek](#2026-10-01--közöljük-a-saját-módszertanunk-korlátját) megfelelően tartományosan közli („a kisebbik felét”).
+
+**Ellenőrzés a közzététel előtt.** A szabályzati idézetek és a típusbesorolás a hatályos szabályzat szövegével egyeznek; a mintára vonatkozó állítások (a bevételi bontás nagyjából a feldolgozott klubok felénél van meg; három klubnál összevont játékjog-sor; egyetlen klubnál sem azonos a futballtársaság a klubbal) a belső kutatási jegyzetekkel egyeznek.
+
+**Amit nem állítunk.** Hogy bármelyik klub szabálytalanul járna el, vagy hogy a javaslat jogilag kész. A szövegszerű módosítás licencszakmai és jogi felülvizsgálatot igényel.
+
 ## 2026-10-01 – Közöljük a saját módszertanunk korlátját
 
 **Döntés: a 11. pont — hogy egyetlen klubnál sem azonos a futballtársaság a klubbal — nyilvánosságra kerül, annak ellenére, hogy a saját eddigi munkánk érvényességét szűkíti.**

@@ -39,6 +39,12 @@ A lap **tizenegy klub beszámolójának feldolgozására és mind a tizenkét NB
 
 Három olyan megállapítás, amelyhez a teljes liga átnézése kellett: a **játékjog-összevonás** három egymástól független klubnál ugyanaz; **egyetlen klubnál sem azonos a futballtársaság a klubbal**; és a bevételi bontás megléte **nem következik** abból, milyen bőbeszédű egyébként a beszámoló.
 
+### Közzétételi javaslat
+
+- **[Javaslat: két mondat a Klublicenc Szabályzatban](KOZZETETELI_JAVASLAT.md)** – 2026. november 24.
+
+A lap megállapításaiból következő konzultációs javaslat az MLSZ klublicenc-szervezetének és szakmai véleményezőknek. Két meglévő szabályzati pont kiterjesztését javasolja: a kiegészítő pénzügyi információ jelenjen meg a klub honlapján is, és a beszámolási kör meghatározása az NB I-es licencnél is legyen kötelező. Új adatgyűjtést és új klubterhet nem kér. Nem jogi szakvélemény.
+
 ## Kutatási helyzetjelentések
 
 - **[2026. szeptember 23. – forrásintegritás és az MTK bevételi feltárása](KUTATASI_STATUSZ_2026-09-23.md)** (szeptember 29-én két kiegészítő ponttal)
@@ -52,9 +58,9 @@ A szervezeti körök, bevételi besorolások és sportági időszakok eltérése
 
 Minden felhasznált forráshoz rögzítjük a közzétételi helyet, a letöltés napját és a SHA-256 lenyomatot, hogy a forrás azonossága **külső ellenőrzéssel is visszakövethető** legyen.
 
-**A nyilvános forrásjegyzék jelenleg 23 dokumentumot tartalmaz — a kutatás azóta 63 forrásból dolgozik**, ebből 55-höz tartozik megőrzött példány és ellenőrzött lenyomat. A jegyzék bővítése hátravan; addig a visszakövethetőség az alábbi 23 dokumentumra áll, a többire nem.
+**A nyilvános forrásjegyzék 63 dokumentumot tartalmaz**, ebből 55-höz tartozik megőrzött példány és ellenőrzött lenyomat. Független webarchív mentés az eredeti 23 forrásból 22-höz van; a későbbi 40-hez még nincs, ezek visszakövethetősége ma gyengébb.
 
-- [Elsődleges forrásjegyzék és forrásintegritás](FORRASJEGYZEK.md) – 23 dokumentum
+- [Elsődleges forrásjegyzék és forrásintegritás](FORRASJEGYZEK.md) – 63 dokumentum
 
 Ezek kutatási státuszfrissítések; az aktuális konzultációs kiadás továbbra is **0.9.2-j1**.
 

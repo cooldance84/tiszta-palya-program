@@ -6,6 +6,17 @@ A formátum a Keep a Changelog elveit követi. A projekt jelenleg előzetes, kon
 
 - A 0.9.3-as esettanulmány előkészítése, klubadatok gyűjtése és a szakmai visszajelzések feldolgozása.
 
+### 2026-11-24 – Közzétételi javaslat a Klublicenc Szabályzathoz
+
+- **[Új lap](KOZZETETELI_JAVASLAT.md): két mondat a Klublicenc Szabályzatban.** Konzultációs javaslat az MLSZ klublicenc-szervezetének és szakmai véleményezőknek.
+  - **1. javaslat – `25/A. § F.01 (1) c)`:** a 2. melléklet szerinti kiegészítő pénzügyi információ ma elkészül, könyvvizsgáló ellenőrzi, és a licencadóhoz kerül; jelenjen meg a klub hivatalos weboldalán is.
+  - **2. javaslat – `24/B. § (4)`:** a jelentéstételi kör meghatározása ma csak UEFA-licenckérelemnél kötelező; terjedjen ki az NB I-es licenckérelemre is, így a bevont jogi személyek beszámolója is nyilvános lesz.
+- **Új adatot, új sablont és új könyvvizsgálatot nem kér.** Klubnevet és klubonkénti pénzügyi számadatot nem közöl; egyetlen tartományos arányt említ, a [2026-10-01-i döntés](DONTESI_NAPLO.md) szerint.
+- **Ellenőrizve a hatályos szabályzat szövegén** (ELN-114/2025, hatályos 2026. február 1-től): a szó szerinti idézetek és a `24/B. § (4)` típusbesorolása egyezik.
+- **README:** új „Közzétételi javaslat” szakasz; a forrásintegritási bekezdés javítva — a forrásjegyzék október 1. óta 63 dokumentumot tartalmaz, a README még 23-at írt.
+
+A programkiadás továbbra is 0.9.2-j1.
+
 ### 2026-10-02 – Adatjavítás és egy saját megjegyzés helyreigazítása
 
 - **[Adatmodell](ADATMODELL.md): 34 rekordnál fel volt cserélve két mező** — az ÁFA-kezelés és a forrásoszlop jelölése. A betöltő argumentumsorrendje csúszott el. Javítva; az ellenőrzés szerint a mezőszám és a rekordszám változatlan, és az értékmező összege a javítás előtt és után azonos, tehát **adat nem sérült**. Ez a negyedik eset ugyanebből a hibatípusból, és most derült ki, hogy a korábbi ellenőrzésünk — a mezőszám vizsgálata — **nem elegendő**: az érintett mezők értékkészletét is listázni kell. A lap ezt is közli.
